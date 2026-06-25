@@ -21,13 +21,6 @@ and abstains when the evidence is insufficient. Built as an installable
 - **Runs on AWS Bedrock** (Claude Haiku 4.5 by default), fully environment-configurable,
   with a Docker image and an offline retrieval-only mode for development.
 
-## Screenshots
-
-> Add your own screenshots to `docs/screenshots/` (e.g. the multi-case workspace and a
-> grounded, cited answer) and they will render below.
-
-![Case Workspace](docs/screenshots/workspace.png)
-![Grounded, cited answer](docs/screenshots/answer.png)
 
 ## Install
 
