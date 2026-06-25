@@ -3,7 +3,7 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "learning-curve"
+name = "legal-ground"
 version = "0.1.0"
 description = "Secure RAG assistant for legal deposition preparation"
 readme = "README.md"
@@ -26,13 +26,13 @@ dev = [
 ]
 
 [project.scripts]
-learning-curve-web = "learning_curve.web.app:main"
-learning-curve-ask = "learning_curve.cli.ask:main"
-learning-curve-search = "learning_curve.cli.search:main"
-learning-curve-eval = "learning_curve.eval.run_eval:main"
-lc-build-chunks = "learning_curve.tools.build_chunks:main"
-lc-build-embeddings = "learning_curve.tools.build_embeddings:main"
-lc-generate-cases = "learning_curve.tools.generate_demo_cases:main"
+legal-ground-web = "legal_ground.web.app:main"
+legal-ground-ask = "legal_ground.cli.ask:main"
+legal-ground-search = "legal_ground.cli.search:main"
+legal-ground-eval = "legal_ground.eval.run_eval:main"
+legal-ground-build-chunks = "legal_ground.tools.build_chunks:main"
+legal-ground-build-embeddings = "legal_ground.tools.build_embeddings:main"
+legal-ground-generate-cases = "legal_ground.tools.generate_demo_cases:main"
 
 [tool.setuptools]
 package-dir = { "" = "src" }
@@ -41,8 +41,8 @@ package-dir = { "" = "src" }
 where = ["src"]
 
 [tool.setuptools.package-data]
-"learning_curve.web" = ["templates/*", "static/*"]
-"learning_curve.eval" = ["*.json"]
+"legal_ground.web" = ["templates/*", "static/*"]
+"legal_ground.eval" = ["*.json"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

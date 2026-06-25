@@ -1,4 +1,4 @@
-from learning_curve.assistant.prompt import ABSTAIN_SENTINEL, build_system_prompt, build_user_prompt
+from legal_ground.assistant.prompt import ABSTAIN_SENTINEL, build_system_prompt, build_user_prompt
 
 EVIDENCE = [
     {

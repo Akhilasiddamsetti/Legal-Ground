@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from learning_curve.retrieval.portfolio import discover_case_roots, merge_case_payloads, merge_case_vectors
+from legal_ground.retrieval.portfolio import discover_case_roots, merge_case_payloads, merge_case_vectors
 
 ROOT = Path(__file__).resolve().parent.parent
 EXPECTED_CASES = {

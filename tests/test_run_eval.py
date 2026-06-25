@@ -1,10 +1,10 @@
 import json
 from pathlib import Path
 
-from learning_curve.eval.run_eval import GOLD_PATH, evaluate, retrieved_doc_ids
-from learning_curve.retrieval import ChunkSearchEngine, VectorIndex
-from learning_curve.retrieval.embeddings import SentenceTransformerEmbedder
-from learning_curve.security.access import Principal, pilot_principal
+from legal_ground.eval.run_eval import GOLD_PATH, evaluate, retrieved_doc_ids
+from legal_ground.retrieval import ChunkSearchEngine, VectorIndex
+from legal_ground.retrieval.embeddings import SentenceTransformerEmbedder
+from legal_ground.security.access import Principal, pilot_principal
 
 ROOT = Path(__file__).resolve().parent.parent
 GOLD = json.loads(GOLD_PATH.read_text())

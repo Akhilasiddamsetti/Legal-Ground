@@ -1,4 +1,4 @@
-from learning_curve.retrieval import ChunkSearchEngine, normalize_token
+from legal_ground.retrieval import ChunkSearchEngine, normalize_token
 
 
 def test_legally_distinct_terms_are_not_collapsed():

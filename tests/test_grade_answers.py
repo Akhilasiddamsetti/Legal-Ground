@@ -1,13 +1,13 @@
 import json
 from pathlib import Path
 
-from learning_curve.assistant.assistant import Assistant
-from learning_curve.assistant.llm import StubLLM
-from learning_curve.eval.grade_answers import grade
-from learning_curve.eval.run_eval import GOLD_PATH
-from learning_curve.retrieval import ChunkSearchEngine, VectorIndex
-from learning_curve.retrieval.embeddings import SentenceTransformerEmbedder
-from learning_curve.security.access import pilot_principal
+from legal_ground.assistant.assistant import Assistant
+from legal_ground.assistant.llm import StubLLM
+from legal_ground.eval.grade_answers import grade
+from legal_ground.eval.run_eval import GOLD_PATH
+from legal_ground.retrieval import ChunkSearchEngine, VectorIndex
+from legal_ground.retrieval.embeddings import SentenceTransformerEmbedder
+from legal_ground.security.access import pilot_principal
 
 ROOT = Path(__file__).resolve().parent.parent
 PAYLOAD = json.loads((ROOT / "sample-docs" / "chunks.json").read_text())

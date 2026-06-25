@@ -1,9 +1,9 @@
 import json
 from pathlib import Path
 
-from learning_curve.assistant.llm import StubLLM
-from learning_curve.retrieval.corpus_layout import case_metadata_path
-from learning_curve.web.runtime import DEFAULT_CORPUS_DIR, build_runtime_from_llm
+from legal_ground.assistant.llm import StubLLM
+from legal_ground.retrieval.corpus_layout import case_metadata_path
+from legal_ground.web.runtime import DEFAULT_CORPUS_DIR, build_runtime_from_llm
 
 ROOT = Path(__file__).resolve().parent.parent
 EXPECTED_CASES = {

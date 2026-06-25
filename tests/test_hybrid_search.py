@@ -1,9 +1,9 @@
 import json
 from pathlib import Path
 
-from learning_curve.retrieval import ChunkSearchEngine, VectorIndex, reciprocal_rank_fusion
-from learning_curve.retrieval.embeddings import SentenceTransformerEmbedder
-from learning_curve.security.access import Principal, pilot_principal
+from legal_ground.retrieval import ChunkSearchEngine, VectorIndex, reciprocal_rank_fusion
+from legal_ground.retrieval.embeddings import SentenceTransformerEmbedder
+from legal_ground.security.access import Principal, pilot_principal
 
 ROOT = Path(__file__).resolve().parent.parent
 PAYLOAD = json.loads((ROOT / "sample-docs" / "chunks.json").read_text())

@@ -1,7 +1,7 @@
 import pytest
 
-import learning_curve.assistant.llm as llm_module
-from learning_curve.assistant.llm import LLM, BedrockLLM, StubLLM
+import legal_ground.assistant.llm as llm_module
+from legal_ground.assistant.llm import LLM, BedrockLLM, StubLLM
 
 
 def test_stub_llm_invokes_responder_with_system_and_user():

@@ -2,9 +2,9 @@ from pathlib import Path
 
 from fastapi.testclient import TestClient
 
-from learning_curve.assistant.llm import StubLLM
-from learning_curve.web.app import create_app
-from learning_curve.web.runtime import build_runtime_from_llm
+from legal_ground.assistant.llm import StubLLM
+from legal_ground.web.app import create_app
+from legal_ground.web.runtime import build_runtime_from_llm
 
 ROOT = Path(__file__).resolve().parent.parent
 

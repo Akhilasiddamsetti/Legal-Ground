@@ -1,4 +1,4 @@
-from learning_curve.eval.metrics import hits_at_k, precision_at_k, recall_at_k, reciprocal_rank
+from legal_ground.eval.metrics import hits_at_k, precision_at_k, recall_at_k, reciprocal_rank
 
 
 def test_hits_at_k_counts_only_top_k():

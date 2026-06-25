@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-from learning_curve.eval.run_eval import GOLD_PATH
+from legal_ground.eval.run_eval import GOLD_PATH
 
 ROOT = Path(__file__).resolve().parent.parent
 GOLD = json.loads(GOLD_PATH.read_text())

@@ -1,4 +1,4 @@
-from learning_curve.security.access import Principal, can_access, pilot_principal
+from legal_ground.security.access import Principal, can_access, pilot_principal
 
 AUTHORIZED_CHUNK = {
     "access_scope": {

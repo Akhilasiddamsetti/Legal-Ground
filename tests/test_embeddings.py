@@ -1,6 +1,6 @@
 import numpy as np
 
-from learning_curve.retrieval.embeddings import SentenceTransformerEmbedder, cosine_scores
+from legal_ground.retrieval.embeddings import SentenceTransformerEmbedder, cosine_scores
 
 
 def test_cosine_scores_ranks_parallel_vector_highest():

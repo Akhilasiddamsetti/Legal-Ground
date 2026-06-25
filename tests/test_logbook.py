@@ -1,6 +1,6 @@
 import json
 
-from learning_curve.assistant.logbook import log_exchange
+from legal_ground.assistant.logbook import log_exchange
 
 
 def test_log_exchange_appends_jsonl(tmp_path):

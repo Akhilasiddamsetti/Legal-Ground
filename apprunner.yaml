@@ -1,0 +1,41 @@
+# AWS App Runner build/run config for Legal Ground (source-based, GitHub -> App Runner).
+#
+# Why the venv lives in /app: App Runner's managed Python runtime only persists the
+# /app directory from the build phase into the run phase. Anything pip installs in the
+# default location — and the HuggingFace model cache — would be DISCARDED. So we build a
+# venv at /app/venv and cache the embedding model at /app/hf, both of which survive.
+#
+# Editable install (`pip install -e .`) keeps the package rooted at the checked-out
+# source (/app), so config.REPO_ROOT resolves to /app and the committed corpus at
+# /app/sample-docs is found with no LG_CORPUS_DIR override needed.
+
+version: 1.0
+runtime: python311
+
+build:
+  commands:
+    build:
+      - python3 -m venv /app/venv
+      - /app/venv/bin/pip install --upgrade pip
+      - /app/venv/bin/pip install -e .
+      # Pre-cache the all-MiniLM-L6-v2 query embedder into /app/hf so runtime
+      # (which loads it with local_files_only=True) finds it offline.
+      - HF_HOME=/app/hf /app/venv/bin/python -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('all-MiniLM-L6-v2')"
+
+run:
+  runtime-version: 3.11
+  command: /app/venv/bin/legal-ground-web --aws-region us-east-1 --host 0.0.0.0 --port 8080
+  network:
+    port: 8080
+  env:
+    - name: HF_HOME
+      value: /app/hf
+    - name: AWS_REGION
+      value: us-east-1
+    # logs/ default is repo-relative and may be read-only at runtime; use /tmp.
+    - name: LG_LOG_DIR
+      value: /tmp/legal-ground-logs
+    # If InvokeModel returns a "model not found / not supported" error in us-east-1,
+    # uncomment and use a region-scoped inference profile id instead of the global one:
+    # - name: BEDROCK_MODEL
+    #   value: us.anthropic.claude-haiku-4-5-20251001-v1:0

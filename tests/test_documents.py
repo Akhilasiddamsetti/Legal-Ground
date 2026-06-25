@@ -2,7 +2,7 @@ from pathlib import Path
 
 import pytest
 
-from learning_curve.web.documents import list_case_documents, load_document_source
+from legal_ground.web.documents import list_case_documents, load_document_source
 
 ROOT = Path(__file__).resolve().parent.parent
 CORPUS = ROOT / "sample-docs"

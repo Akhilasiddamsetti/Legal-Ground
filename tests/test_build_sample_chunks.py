@@ -1,7 +1,7 @@
 from pathlib import Path
 
-from learning_curve.tools.build_chunks import build_chunks
-from learning_curve.web.runtime import resolve_corpus_paths
+from legal_ground.tools.build_chunks import build_chunks
+from legal_ground.web.runtime import resolve_corpus_paths
 
 ROOT = Path(__file__).resolve().parent.parent
 
