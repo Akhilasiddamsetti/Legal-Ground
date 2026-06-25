@@ -1,0 +1,21 @@
+.git/
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+logs/
+tests/
+docs/
+plans/
+.consult/
+.agents/
+.github/
+Case Workspace (standalone).html
+*.md
+!README.md

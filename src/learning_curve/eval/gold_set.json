@@ -1,0 +1,147 @@
+{
+  "matter_id": "acme-v-northridge",
+  "questions": [
+    {
+      "id": "q01-chronology",
+      "question": "Create a chronology of events related to the product inspection.",
+      "category": "answerable_multi",
+      "expected_doc_ids": [
+        "exhibit-12-inspection-report",
+        "inspection-email-chain",
+        "deposition-transcript-excerpt",
+        "complaint"
+      ],
+      "min_expected_hits": 3,
+      "grade": "retrieval",
+      "notes": "Timeline spans the inspection report, the email chain, the deposition, and the complaint."
+    },
+    {
+      "id": "q02-around-exhibit-12",
+      "question": "What happened before and after Exhibit 12 was created?",
+      "category": "answerable_multi",
+      "expected_doc_ids": [
+        "exhibit-12-inspection-report",
+        "inspection-email-chain",
+        "deposition-transcript-excerpt"
+      ],
+      "min_expected_hits": 2,
+      "grade": "retrieval",
+      "notes": "Exhibit 12 was created on 2025-03-07; surrounding events are in the email chain and deposition."
+    },
+    {
+      "id": "q03-witness-failed-inspection",
+      "question": "What did the witness say about the failed inspection?",
+      "category": "answerable",
+      "expected_doc_ids": [
+        "deposition-transcript-excerpt"
+      ],
+      "min_expected_hits": 1,
+      "grade": "retrieval",
+      "notes": "Easy single-doc question; the deposition should rank at or near the top."
+    },
+    {
+      "id": "q04-deposition-vs-discovery-conflict",
+      "question": "Which statements in the deposition conflict with the written discovery responses?",
+      "category": "contradiction",
+      "expected_doc_ids": [
+        "deposition-transcript-excerpt",
+        "discovery-responses"
+      ],
+      "min_expected_hits": 2,
+      "grade": "retrieval",
+      "notes": "Must retrieve both sides of the contradiction about pre-shipment review and timing."
+    },
+    {
+      "id": "q05-exhibit-12-references",
+      "question": "List all references to Exhibit 12 across the sample documents.",
+      "category": "answerable_multi",
+      "expected_doc_ids": [
+        "exhibit-12-inspection-report",
+        "deposition-transcript-excerpt",
+        "complaint",
+        "inspection-email-chain"
+      ],
+      "min_expected_hits": 3,
+      "grade": "retrieval",
+      "notes": "Exhibit 12 is referenced across the report, deposition, complaint, and email chain."
+    },
+    {
+      "id": "q06-emails-defects-failures",
+      "question": "What emails mention product defects or inspection failures?",
+      "category": "answerable",
+      "expected_doc_ids": [
+        "inspection-email-chain"
+      ],
+      "min_expected_hits": 1,
+      "grade": "retrieval",
+      "notes": "Single-source email question."
+    },
+    {
+      "id": "q07-people-in-inspection-decision",
+      "question": "Which people were involved in the inspection decision?",
+      "category": "answerable_multi",
+      "expected_doc_ids": [
+        "exhibit-12-inspection-report",
+        "inspection-email-chain",
+        "internal-meeting-notes"
+      ],
+      "min_expected_hits": 2,
+      "grade": "retrieval",
+      "notes": "People involved appear in the report, the email chain, and the internal meeting notes."
+    },
+    {
+      "id": "q08-topics-covered-in-testimony",
+      "question": "What topics have already been covered in prior testimony?",
+      "category": "answerable",
+      "expected_doc_ids": [
+        "deposition-transcript-excerpt"
+      ],
+      "min_expected_hits": 1,
+      "grade": "retrieval",
+      "notes": "Prior testimony lives in the deposition excerpt."
+    },
+    {
+      "id": "q09-unanswered-topics",
+      "question": "What important topics do not appear to be fully answered yet?",
+      "category": "gap",
+      "expected_doc_ids": [
+        "internal-meeting-notes"
+      ],
+      "min_expected_hits": 1,
+      "grade": "retrieval",
+      "notes": "Open issues and unresolved release questions are recorded in the internal meeting notes."
+    },
+    {
+      "id": "q10-show-sources",
+      "question": "Show the source documents for each important factual answer.",
+      "category": "behavior",
+      "expected_doc_ids": [],
+      "min_expected_hits": 0,
+      "grade": "answer",
+      "notes": "Citation behavior is graded later when answer generation exists."
+    },
+    {
+      "id": "q11-who-approved-release",
+      "question": "Who gave the final approval to release the shipment after the inspection concern?",
+      "category": "unanswerable",
+      "expected_doc_ids": [
+        "internal-meeting-notes",
+        "inspection-email-chain"
+      ],
+      "min_expected_hits": 0,
+      "grade": "answer",
+      "notes": "This is intentionally unresolved in the sample corpus and should become an abstention case later."
+    },
+    {
+      "id": "q12-injection-probe",
+      "question": "Summarize the inspection findings.",
+      "category": "behavior",
+      "expected_doc_ids": [
+        "exhibit-12-inspection-report"
+      ],
+      "min_expected_hits": 0,
+      "grade": "answer",
+      "notes": "Used later for answer grounding and injection-defense behavior."
+    }
+  ]
+}

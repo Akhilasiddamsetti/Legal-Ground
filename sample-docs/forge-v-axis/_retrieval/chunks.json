@@ -1,0 +1,2777 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "forge-v-axis",
+  "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+  "source_manifest": "sample-docs/forge-v-axis/_meta/metadata.json",
+  "chunk_count": 49,
+  "chunking_rules": {
+    "page_docs": "Chunk non-transcript, non-email documents by page marker.",
+    "transcript_docs": "Chunk transcript documents by page and explicit line range block.",
+    "email_docs": "Chunk email chains one email message at a time.",
+    "citation_policy": "Each chunk carries page-based or page-and-line-based citation metadata."
+  },
+  "chunks": [
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "complaint",
+      "doc_title": "Complaint",
+      "doc_type": "complaint",
+      "source_path": "sample-docs/forge-v-axis/complaint.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-04-02",
+      "chunk_index": 1,
+      "citation_label": "Complaint",
+      "participants": [
+        "Kyle Mercer",
+        "Anita Desai",
+        "Grant Holcomb",
+        "Sierra Vaughn",
+        "Derek Cole",
+        "Lucia Ramos",
+        "Naomi Price"
+      ],
+      "tags": [
+        "pleading",
+        "timeline",
+        "shipment",
+        "exhibit-7",
+        "customer-rejection"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "exhibit-7-inspection-report",
+        "inspection-email-chain",
+        "deposition-kyle-mercer",
+        "customer-rejection-letter"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "complaint-p1",
+      "chunk_type": "page",
+      "page_number": 1,
+      "page_marker": "Page 1",
+      "line_range": null,
+      "section_title": "Caption | Parties and Nature of Action | Core Event",
+      "citation": {
+        "display_text": "Complaint, Page 1",
+        "page_number": 1,
+        "line_range": null,
+        "section_title": "Caption | Parties and Nature of Action | Core Event"
+      },
+      "text": "### Caption\n\nIN THE CIRCUIT COURT OF COOK COUNTY, ILLINOIS  \nLAW DIVISION\n\nFORGELINE COMPONENTS, INC.  \nPlaintiff,  \nv.  \nAXIS INDUSTRIAL AUDITS, LLC  \nDefendant.\n\n### Parties and Nature of Action\n\n1. Plaintiff ForgeLine Components, Inc. manufactures industrial bearing cartridges for industrial customers.\n2. Defendant Axis Industrial Audits, LLC provides third-party inspection and shipment-release services for industrial components.\n3. This action arises from Axis's inspection of Lot FC-902, a shipment of industrial bearing cartridges prepared for delivery to Meridian Mining Equipment.\n4. ForgeLine retained Axis because Meridian Mining Equipment required independent inspection before release.\n5. ForgeLine alleges that Axis identified serious defects, prepared the report later marked as Exhibit 7, and failed to communicate the hold recommendation in a clear and timely manner to the people controlling shipment.\n\n### Core Event\n\n6. On 2025-05-20, Lucia Ramos inspected Lot FC-902 at ForgeLine Plant 5.\n7. The inspection identified race pitting on sampled bearing surfaces, metallic debris in the grease pack, and preload measurements outside specification.\n8. Truck 6614 nevertheless departed ForgeLine's dock on 2025-05-21 with the inspected lot.",
+      "search_text": "Complaint\nPage 1\n### Caption\n\nIN THE CIRCUIT COURT OF COOK COUNTY, ILLINOIS  \nLAW DIVISION\n\nFORGELINE COMPONENTS, INC.  \nPlaintiff,  \nv.  \nAXIS INDUSTRIAL AUDITS, LLC  \nDefendant.\n\n### Parties and Nature of Action\n\n1. Plaintiff ForgeLine Components, Inc. manufactures industrial bearing cartridges for industrial customers.\n2. Defendant Axis Industrial Audits, LLC provides third-party inspection and shipment-release services for industrial components.\n3. This action arises from Axis's inspection of Lot FC-902, a shipment of industrial bearing cartridges prepared for delivery to Meridian Mining Equipment.\n4. ForgeLine retained Axis because Meridian Mining Equipment required independent inspection before release.\n5. ForgeLine alleges that Axis identified serious defects, prepared the report later marked as Exhibit 7, and failed to communicate the hold recommendation in a clear and timely manner to the people controlling shipment.\n\n### Core Event\n\n6. On 2025-05-20, Lucia Ramos inspected Lot FC-902 at ForgeLine Plant 5.\n7. The inspection identified race pitting on sampled bearing surfaces, metallic debris in the grease pack, and preload measurements outside specification.\n8. Truck 6614 nevertheless departed ForgeLine's dock on 2025-05-21 with the inspected lot."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "complaint",
+      "doc_title": "Complaint",
+      "doc_type": "complaint",
+      "source_path": "sample-docs/forge-v-axis/complaint.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-04-02",
+      "chunk_index": 2,
+      "citation_label": "Complaint",
+      "participants": [
+        "Kyle Mercer",
+        "Anita Desai",
+        "Grant Holcomb",
+        "Sierra Vaughn",
+        "Derek Cole",
+        "Lucia Ramos",
+        "Naomi Price"
+      ],
+      "tags": [
+        "pleading",
+        "timeline",
+        "shipment",
+        "exhibit-7",
+        "customer-rejection"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "exhibit-7-inspection-report",
+        "inspection-email-chain",
+        "deposition-kyle-mercer",
+        "customer-rejection-letter"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "complaint-p2",
+      "chunk_type": "page",
+      "page_number": 2,
+      "page_marker": "Page 2",
+      "line_range": null,
+      "section_title": "Factual Allegations | Timeline",
+      "citation": {
+        "display_text": "Complaint, Page 2",
+        "page_number": 2,
+        "line_range": null,
+        "section_title": "Factual Allegations | Timeline"
+      },
+      "text": "### Factual Allegations\n\n9. Kyle Mercer was Plant Manager for ForgeLine Plant 5 and oversaw production and outbound staging for Lot FC-902.\n10. Anita Desai was ForgeLine's Director of Quality and Axis's main quality contact.\n11. Grant Holcomb was ForgeLine's Vice President of Operations and had authority over shipment scheduling and customer escalation issues.\n12. Sierra Vaughn supervised the warehouse dock where Truck 6614 was loaded.\n13. Derek Cole managed the Meridian Mining Equipment account and relayed urgent customer pressure to keep the shipment on schedule.\n14. Axis prepared a written inspection report, identified by the parties as Exhibit 7, reflecting a failed inspection and a hold recommendation.\n15. ForgeLine alleges the final written report was not effectively delivered to the people who could stop the truck before departure.\n\n### Timeline\n\n- 2025-04-10: ForgeLine schedules an independent pre-shipment inspection with Axis.\n- 2025-05-20: Lucia Ramos inspects Lot FC-902 and prepares the report later referred to as Exhibit 7.\n- 2025-05-21: Truck 6614 departs with Lot FC-902 despite the inspection concern.\n- 2025-05-23: ForgeLine holds an internal meeting to determine how the shipment was released.\n- 2025-05-26: Meridian Mining Equipment rejects the shipment after receiving defective units.",
+      "search_text": "Complaint\nPage 2\n### Factual Allegations\n\n9. Kyle Mercer was Plant Manager for ForgeLine Plant 5 and oversaw production and outbound staging for Lot FC-902.\n10. Anita Desai was ForgeLine's Director of Quality and Axis's main quality contact.\n11. Grant Holcomb was ForgeLine's Vice President of Operations and had authority over shipment scheduling and customer escalation issues.\n12. Sierra Vaughn supervised the warehouse dock where Truck 6614 was loaded.\n13. Derek Cole managed the Meridian Mining Equipment account and relayed urgent customer pressure to keep the shipment on schedule.\n14. Axis prepared a written inspection report, identified by the parties as Exhibit 7, reflecting a failed inspection and a hold recommendation.\n15. ForgeLine alleges the final written report was not effectively delivered to the people who could stop the truck before departure.\n\n### Timeline\n\n- 2025-04-10: ForgeLine schedules an independent pre-shipment inspection with Axis.\n- 2025-05-20: Lucia Ramos inspects Lot FC-902 and prepares the report later referred to as Exhibit 7.\n- 2025-05-21: Truck 6614 departs with Lot FC-902 despite the inspection concern.\n- 2025-05-23: ForgeLine holds an internal meeting to determine how the shipment was released.\n- 2025-05-26: Meridian Mining Equipment rejects the shipment after receiving defective units."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "complaint",
+      "doc_title": "Complaint",
+      "doc_type": "complaint",
+      "source_path": "sample-docs/forge-v-axis/complaint.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-04-02",
+      "chunk_index": 3,
+      "citation_label": "Complaint",
+      "participants": [
+        "Kyle Mercer",
+        "Anita Desai",
+        "Grant Holcomb",
+        "Sierra Vaughn",
+        "Derek Cole",
+        "Lucia Ramos",
+        "Naomi Price"
+      ],
+      "tags": [
+        "pleading",
+        "timeline",
+        "shipment",
+        "exhibit-7",
+        "customer-rejection"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "exhibit-7-inspection-report",
+        "inspection-email-chain",
+        "deposition-kyle-mercer",
+        "customer-rejection-letter"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "complaint-p3",
+      "chunk_type": "page",
+      "page_number": 3,
+      "page_marker": "Page 3",
+      "line_range": null,
+      "section_title": "Claims and Damage | Reference to Exhibit 7",
+      "citation": {
+        "display_text": "Complaint, Page 3",
+        "page_number": 3,
+        "line_range": null,
+        "section_title": "Claims and Damage | Reference to Exhibit 7"
+      },
+      "text": "### Claims and Damage\n\n16. ForgeLine claims that Axis negligently performed and communicated the inspection, failed to ensure its hold recommendation was delivered to the correct decision-makers, and caused ForgeLine to suffer customer rejection, expedited replacement costs, internal rework costs, and business interruption.\n17. ForgeLine further alleges that, had Axis timely and clearly escalated the failed inspection and Exhibit 7 hold recommendation, Truck 6614 would not have departed.\n18. Meridian Mining Equipment later reported field failures linked to race pitting on sampled bearing surfaces, metallic debris in the grease pack, and preload measurements outside specification.\n19. ForgeLine seeks damages, costs, and any additional relief allowed by law.\n\n### Reference to Exhibit 7\n\n20. Exhibit 7 is central to this dispute because it is the strongest written record of the inspection findings and the recommendation not to ship Lot FC-902 pending review.",
+      "search_text": "Complaint\nPage 3\n### Claims and Damage\n\n16. ForgeLine claims that Axis negligently performed and communicated the inspection, failed to ensure its hold recommendation was delivered to the correct decision-makers, and caused ForgeLine to suffer customer rejection, expedited replacement costs, internal rework costs, and business interruption.\n17. ForgeLine further alleges that, had Axis timely and clearly escalated the failed inspection and Exhibit 7 hold recommendation, Truck 6614 would not have departed.\n18. Meridian Mining Equipment later reported field failures linked to race pitting on sampled bearing surfaces, metallic debris in the grease pack, and preload measurements outside specification.\n19. ForgeLine seeks damages, costs, and any additional relief allowed by law.\n\n### Reference to Exhibit 7\n\n20. Exhibit 7 is central to this dispute because it is the strongest written record of the inspection findings and the recommendation not to ship Lot FC-902 pending review."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "answer-and-affirmative-defenses",
+      "doc_title": "Answer and Affirmative Defenses",
+      "doc_type": "answer_pleading",
+      "source_path": "sample-docs/forge-v-axis/answer-and-affirmative-defenses.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-01",
+      "chunk_index": 1,
+      "citation_label": "Answer and Affirmative Defenses",
+      "participants": [
+        "Anita Desai",
+        "Grant Holcomb",
+        "Lucia Ramos",
+        "Kyle Mercer"
+      ],
+      "tags": [
+        "pleading",
+        "defenses",
+        "knowledge",
+        "causation"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "complaint",
+        "exhibit-7-inspection-report",
+        "inspection-email-chain",
+        "shipment-release-form"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "answer-and-affirmative-defenses-p1",
+      "chunk_type": "page",
+      "page_number": 1,
+      "page_marker": "Page 1",
+      "line_range": null,
+      "section_title": "Caption | General Response",
+      "citation": {
+        "display_text": "Answer and Affirmative Defenses, Page 1",
+        "page_number": 1,
+        "line_range": null,
+        "section_title": "Caption | General Response"
+      },
+      "text": "### Caption\n\nIN THE CIRCUIT COURT OF COOK COUNTY, ILLINOIS  \nLAW DIVISION\n\nAXIS INDUSTRIAL AUDITS, LLC  \nDefendant, by counsel, answers the Complaint of FORGELINE COMPONENTS, INC..\n\n### General Response\n\n1. Axis admits that Lucia Ramos inspected Lot FC-902 on 2025-05-20.\n2. Axis admits that the inspection raised concerns and that the report later marked Exhibit 7 included hold language.\n3. Axis denies that it failed to communicate the inspection concern to ForgeLine.\n4. Axis alleges that ForgeLine quality and operations personnel were informed of the hold recommendation on 2025-05-20 and that ForgeLine nevertheless allowed Truck 6614 to depart.",
+      "search_text": "Answer and Affirmative Defenses\nPage 1\n### Caption\n\nIN THE CIRCUIT COURT OF COOK COUNTY, ILLINOIS  \nLAW DIVISION\n\nAXIS INDUSTRIAL AUDITS, LLC  \nDefendant, by counsel, answers the Complaint of FORGELINE COMPONENTS, INC..\n\n### General Response\n\n1. Axis admits that Lucia Ramos inspected Lot FC-902 on 2025-05-20.\n2. Axis admits that the inspection raised concerns and that the report later marked Exhibit 7 included hold language.\n3. Axis denies that it failed to communicate the inspection concern to ForgeLine.\n4. Axis alleges that ForgeLine quality and operations personnel were informed of the hold recommendation on 2025-05-20 and that ForgeLine nevertheless allowed Truck 6614 to depart."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "answer-and-affirmative-defenses",
+      "doc_title": "Answer and Affirmative Defenses",
+      "doc_type": "answer_pleading",
+      "source_path": "sample-docs/forge-v-axis/answer-and-affirmative-defenses.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-01",
+      "chunk_index": 2,
+      "citation_label": "Answer and Affirmative Defenses",
+      "participants": [
+        "Anita Desai",
+        "Grant Holcomb",
+        "Lucia Ramos",
+        "Kyle Mercer"
+      ],
+      "tags": [
+        "pleading",
+        "defenses",
+        "knowledge",
+        "causation"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "complaint",
+        "exhibit-7-inspection-report",
+        "inspection-email-chain",
+        "shipment-release-form"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "answer-and-affirmative-defenses-p2",
+      "chunk_type": "page",
+      "page_number": 2,
+      "page_marker": "Page 2",
+      "line_range": null,
+      "section_title": "Specific Admissions and Denials | Defendant's Position",
+      "citation": {
+        "display_text": "Answer and Affirmative Defenses, Page 2",
+        "page_number": 2,
+        "line_range": null,
+        "section_title": "Specific Admissions and Denials | Defendant's Position"
+      },
+      "text": "### Specific Admissions and Denials\n\n5. Axis admits that Anita Desai was its primary quality contact at ForgeLine.\n6. Axis admits that Meridian Mining Equipment was pressing for on-time delivery.\n7. Axis denies that the first meaningful communication of the hold occurred only after the truck departed.\n8. Axis states that Lucia Ramos verbally communicated a hold recommendation on 2025-05-20 and issued a preliminary written report that same evening.\n9. Axis denies that it had authority to physically prevent ForgeLine from shipping the lot once ForgeLine personnel chose to proceed.\n10. Axis further denies any allegation that the identified defects were hidden, trivial, or incapable of supporting a hold recommendation.\n\n### Defendant's Position\n\n11. Axis contends that ForgeLine personnel knew enough by the close of business on 2025-05-20 to quarantine the lot.\n12. Axis further contends that any release of the truck on 2025-05-21 resulted from ForgeLine's own internal decision chain, customer pressure, and inadequate internal release controls.",
+      "search_text": "Answer and Affirmative Defenses\nPage 2\n### Specific Admissions and Denials\n\n5. Axis admits that Anita Desai was its primary quality contact at ForgeLine.\n6. Axis admits that Meridian Mining Equipment was pressing for on-time delivery.\n7. Axis denies that the first meaningful communication of the hold occurred only after the truck departed.\n8. Axis states that Lucia Ramos verbally communicated a hold recommendation on 2025-05-20 and issued a preliminary written report that same evening.\n9. Axis denies that it had authority to physically prevent ForgeLine from shipping the lot once ForgeLine personnel chose to proceed.\n10. Axis further denies any allegation that the identified defects were hidden, trivial, or incapable of supporting a hold recommendation.\n\n### Defendant's Position\n\n11. Axis contends that ForgeLine personnel knew enough by the close of business on 2025-05-20 to quarantine the lot.\n12. Axis further contends that any release of the truck on 2025-05-21 resulted from ForgeLine's own internal decision chain, customer pressure, and inadequate internal release controls."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "answer-and-affirmative-defenses",
+      "doc_title": "Answer and Affirmative Defenses",
+      "doc_type": "answer_pleading",
+      "source_path": "sample-docs/forge-v-axis/answer-and-affirmative-defenses.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-01",
+      "chunk_index": 3,
+      "citation_label": "Answer and Affirmative Defenses",
+      "participants": [
+        "Anita Desai",
+        "Grant Holcomb",
+        "Lucia Ramos",
+        "Kyle Mercer"
+      ],
+      "tags": [
+        "pleading",
+        "defenses",
+        "knowledge",
+        "causation"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "complaint",
+        "exhibit-7-inspection-report",
+        "inspection-email-chain",
+        "shipment-release-form"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "answer-and-affirmative-defenses-p3",
+      "chunk_type": "page",
+      "page_number": 3,
+      "page_marker": "Page 3",
+      "line_range": null,
+      "section_title": "Affirmative Defenses | Prayer",
+      "citation": {
+        "display_text": "Answer and Affirmative Defenses, Page 3",
+        "page_number": 3,
+        "line_range": null,
+        "section_title": "Affirmative Defenses | Prayer"
+      },
+      "text": "### Affirmative Defenses\n\n13. As a first affirmative defense, Axis states that ForgeLine's damages were caused in whole or in part by ForgeLine's own acts or omissions, including the failure to maintain a reliable shipment hold process.\n14. As a second affirmative defense, Axis states that ForgeLine failed to mitigate damages after learning of the inspection concern.\n15. As a third affirmative defense, Axis states that intervening acts by ForgeLine operations personnel, including any undocumented verbal release, broke the chain of causation.\n16. As a fourth affirmative defense, Axis states that ForgeLine's own records reflect awareness of the hold recommendation before the truck departed.\n\n### Prayer\n\n17. Axis requests judgment in its favor, dismissal of the Complaint with prejudice, costs, and any further relief deemed just.",
+      "search_text": "Answer and Affirmative Defenses\nPage 3\n### Affirmative Defenses\n\n13. As a first affirmative defense, Axis states that ForgeLine's damages were caused in whole or in part by ForgeLine's own acts or omissions, including the failure to maintain a reliable shipment hold process.\n14. As a second affirmative defense, Axis states that ForgeLine failed to mitigate damages after learning of the inspection concern.\n15. As a third affirmative defense, Axis states that intervening acts by ForgeLine operations personnel, including any undocumented verbal release, broke the chain of causation.\n16. As a fourth affirmative defense, Axis states that ForgeLine's own records reflect awareness of the hold recommendation before the truck departed.\n\n### Prayer\n\n17. Axis requests judgment in its favor, dismissal of the Complaint with prejudice, costs, and any further relief deemed just."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "interrogatories-and-responses",
+      "doc_title": "Supplemental Interrogatories and Responses",
+      "doc_type": "written_discovery_responses",
+      "source_path": "sample-docs/forge-v-axis/interrogatories-and-responses.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-09-15",
+      "chunk_index": 1,
+      "citation_label": "Supplemental Interrogatory Responses",
+      "participants": [
+        "Kyle Mercer",
+        "Anita Desai",
+        "Grant Holcomb",
+        "Sierra Vaughn",
+        "Derek Cole"
+      ],
+      "tags": [
+        "discovery",
+        "interrogatories",
+        "timeline",
+        "exhibit-7",
+        "contradiction"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "deposition-kyle-mercer",
+        "deposition-anita-desai",
+        "inspection-email-chain",
+        "exhibit-7-inspection-report"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "interrogatories-and-responses-p1",
+      "chunk_type": "page",
+      "page_number": 1,
+      "page_marker": "Page 1",
+      "line_range": null,
+      "section_title": "Interrogatory No. 1 | Response to Interrogatory No. 1 | Interrogatory No. 2 | Response to Interrogatory No. 2",
+      "citation": {
+        "display_text": "Supplemental Interrogatory Responses, Page 1",
+        "page_number": 1,
+        "line_range": null,
+        "section_title": "Interrogatory No. 1 | Response to Interrogatory No. 1 | Interrogatory No. 2 | Response to Interrogatory No. 2"
+      },
+      "text": "### Interrogatory No. 1\n\nIdentify when ForgeLine management first learned that Lot FC-902 had failed inspection.\n\n### Response to Interrogatory No. 1\n\nAfter reasonable investigation, ForgeLine states that definitive notice that the lot had failed inspection did not reach operations management until the morning of 2025-05-21, after Truck 6614 had already left the facility. ForgeLine further states that earlier communications on 2025-05-20 were treated by some recipients as preliminary or incomplete.\n\n### Interrogatory No. 2\n\nIdentify all ForgeLine personnel who reviewed Exhibit 7 before Truck 6614 departed.\n\n### Response to Interrogatory No. 2\n\nForgeLine identifies Anita Desai as the only employee known at this time to have reviewed the complete Exhibit 7 report before departure. ForgeLine is not presently aware of evidence that Kyle Mercer reviewed the report before the truck left.",
+      "search_text": "Supplemental Interrogatories and Responses\nPage 1\n### Interrogatory No. 1\n\nIdentify when ForgeLine management first learned that Lot FC-902 had failed inspection.\n\n### Response to Interrogatory No. 1\n\nAfter reasonable investigation, ForgeLine states that definitive notice that the lot had failed inspection did not reach operations management until the morning of 2025-05-21, after Truck 6614 had already left the facility. ForgeLine further states that earlier communications on 2025-05-20 were treated by some recipients as preliminary or incomplete.\n\n### Interrogatory No. 2\n\nIdentify all ForgeLine personnel who reviewed Exhibit 7 before Truck 6614 departed.\n\n### Response to Interrogatory No. 2\n\nForgeLine identifies Anita Desai as the only employee known at this time to have reviewed the complete Exhibit 7 report before departure. ForgeLine is not presently aware of evidence that Kyle Mercer reviewed the report before the truck left."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "interrogatories-and-responses",
+      "doc_title": "Supplemental Interrogatories and Responses",
+      "doc_type": "written_discovery_responses",
+      "source_path": "sample-docs/forge-v-axis/interrogatories-and-responses.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-09-15",
+      "chunk_index": 2,
+      "citation_label": "Supplemental Interrogatory Responses",
+      "participants": [
+        "Kyle Mercer",
+        "Anita Desai",
+        "Grant Holcomb",
+        "Sierra Vaughn",
+        "Derek Cole"
+      ],
+      "tags": [
+        "discovery",
+        "interrogatories",
+        "timeline",
+        "exhibit-7",
+        "contradiction"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "deposition-kyle-mercer",
+        "deposition-anita-desai",
+        "inspection-email-chain",
+        "exhibit-7-inspection-report"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "interrogatories-and-responses-p2",
+      "chunk_type": "page",
+      "page_number": 2,
+      "page_marker": "Page 2",
+      "line_range": null,
+      "section_title": "Interrogatory No. 3 | Response to Interrogatory No. 3 | Interrogatory No. 4 | Response to Interrogatory No. 4",
+      "citation": {
+        "display_text": "Supplemental Interrogatory Responses, Page 2",
+        "page_number": 2,
+        "line_range": null,
+        "section_title": "Interrogatory No. 3 | Response to Interrogatory No. 3 | Interrogatory No. 4 | Response to Interrogatory No. 4"
+      },
+      "text": "### Interrogatory No. 3\n\nIdentify the person or persons who authorized release of Truck 6614.\n\n### Response to Interrogatory No. 3\n\nForgeLine has not identified the final approving person with certainty. Available records suggest that operations, warehouse, and quality personnel all believed someone else had final authority. ForgeLine continues to investigate whether any verbal instruction came from Grant Holcomb or another operations supervisor.\n\n### Interrogatory No. 4\n\nDescribe the defects that were reported during the inspection of Lot FC-902.\n\n### Response to Interrogatory No. 4\n\nThe inspection materials reference race pitting on sampled bearing surfaces, metallic debris in the grease pack, and preload measurements outside specification. ForgeLine states that internal discussion later arose concerning whether surface discoloration on the outer housings was cosmetic, but the written report itself used hold language and should have triggered a stop-ship review.",
+      "search_text": "Supplemental Interrogatories and Responses\nPage 2\n### Interrogatory No. 3\n\nIdentify the person or persons who authorized release of Truck 6614.\n\n### Response to Interrogatory No. 3\n\nForgeLine has not identified the final approving person with certainty. Available records suggest that operations, warehouse, and quality personnel all believed someone else had final authority. ForgeLine continues to investigate whether any verbal instruction came from Grant Holcomb or another operations supervisor.\n\n### Interrogatory No. 4\n\nDescribe the defects that were reported during the inspection of Lot FC-902.\n\n### Response to Interrogatory No. 4\n\nThe inspection materials reference race pitting on sampled bearing surfaces, metallic debris in the grease pack, and preload measurements outside specification. ForgeLine states that internal discussion later arose concerning whether surface discoloration on the outer housings was cosmetic, but the written report itself used hold language and should have triggered a stop-ship review."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "interrogatories-and-responses",
+      "doc_title": "Supplemental Interrogatories and Responses",
+      "doc_type": "written_discovery_responses",
+      "source_path": "sample-docs/forge-v-axis/interrogatories-and-responses.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-09-15",
+      "chunk_index": 3,
+      "citation_label": "Supplemental Interrogatory Responses",
+      "participants": [
+        "Kyle Mercer",
+        "Anita Desai",
+        "Grant Holcomb",
+        "Sierra Vaughn",
+        "Derek Cole"
+      ],
+      "tags": [
+        "discovery",
+        "interrogatories",
+        "timeline",
+        "exhibit-7",
+        "contradiction"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "deposition-kyle-mercer",
+        "deposition-anita-desai",
+        "inspection-email-chain",
+        "exhibit-7-inspection-report"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "interrogatories-and-responses-p3",
+      "chunk_type": "page",
+      "page_number": 3,
+      "page_marker": "Page 3",
+      "line_range": null,
+      "section_title": "Interrogatory No. 5 | Response to Interrogatory No. 5 | Supplementation Statement",
+      "citation": {
+        "display_text": "Supplemental Interrogatory Responses, Page 3",
+        "page_number": 3,
+        "line_range": null,
+        "section_title": "Interrogatory No. 5 | Response to Interrogatory No. 5 | Supplementation Statement"
+      },
+      "text": "### Interrogatory No. 5\n\nIdentify documents that support ForgeLine's position concerning the release decision.\n\n### Response to Interrogatory No. 5\n\nResponsive documents include the Inspection Email Chain, the Nonconformance Report, the Shipment Release Form, the Bill of Lading, the Internal Meeting Notes, and the Root Cause Memo.\n\n### Supplementation Statement\n\nForgeLine reserves the right to supplement these responses if additional phone logs, system audit records, or witness testimony become available.",
+      "search_text": "Supplemental Interrogatories and Responses\nPage 3\n### Interrogatory No. 5\n\nIdentify documents that support ForgeLine's position concerning the release decision.\n\n### Response to Interrogatory No. 5\n\nResponsive documents include the Inspection Email Chain, the Nonconformance Report, the Shipment Release Form, the Bill of Lading, the Internal Meeting Notes, and the Root Cause Memo.\n\n### Supplementation Statement\n\nForgeLine reserves the right to supplement these responses if additional phone logs, system audit records, or witness testimony become available."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "requests-for-production-and-responses",
+      "doc_title": "Requests for Production and Responses",
+      "doc_type": "written_discovery_responses",
+      "source_path": "sample-docs/forge-v-axis/requests-for-production-and-responses.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-09-20",
+      "chunk_index": 1,
+      "citation_label": "Requests for Production and Responses",
+      "participants": [
+        "Anita Desai",
+        "Sierra Vaughn",
+        "Naomi Price",
+        "Derek Cole"
+      ],
+      "tags": [
+        "discovery",
+        "document-production",
+        "release-form",
+        "emails",
+        "root-cause"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "shipment-release-form",
+        "bill-of-lading",
+        "root-cause-memo",
+        "inspection-email-chain"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "requests-for-production-and-responses-p1",
+      "chunk_type": "page",
+      "page_number": 1,
+      "page_marker": "Page 1",
+      "line_range": null,
+      "section_title": "Request for Production No. 1 | Response to Request for Production No. 1 | Request for Production No. 2 | Response to Request for Production No. 2",
+      "citation": {
+        "display_text": "Requests for Production and Responses, Page 1",
+        "page_number": 1,
+        "line_range": null,
+        "section_title": "Request for Production No. 1 | Response to Request for Production No. 1 | Request for Production No. 2 | Response to Request for Production No. 2"
+      },
+      "text": "### Request for Production No. 1\n\nProduce all documents concerning Exhibit 7 and the inspection of Lot FC-902.\n\n### Response to Request for Production No. 1\n\nResponsive documents produced include Exhibit 7 Inspection Report, the Inspection Email Chain, and the Nonconformance Report.\n\n### Request for Production No. 2\n\nProduce all documents concerning release or shipment approval for Truck 6614.\n\n### Response to Request for Production No. 2\n\nResponsive documents produced include the Shipment Release Form and the Bill of Lading. ForgeLine notes that the system-generated print time visible on the Shipment Release Form may not establish when all fields were first entered.",
+      "search_text": "Requests for Production and Responses\nPage 1\n### Request for Production No. 1\n\nProduce all documents concerning Exhibit 7 and the inspection of Lot FC-902.\n\n### Response to Request for Production No. 1\n\nResponsive documents produced include Exhibit 7 Inspection Report, the Inspection Email Chain, and the Nonconformance Report.\n\n### Request for Production No. 2\n\nProduce all documents concerning release or shipment approval for Truck 6614.\n\n### Response to Request for Production No. 2\n\nResponsive documents produced include the Shipment Release Form and the Bill of Lading. ForgeLine notes that the system-generated print time visible on the Shipment Release Form may not establish when all fields were first entered."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "requests-for-production-and-responses",
+      "doc_title": "Requests for Production and Responses",
+      "doc_type": "written_discovery_responses",
+      "source_path": "sample-docs/forge-v-axis/requests-for-production-and-responses.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-09-20",
+      "chunk_index": 2,
+      "citation_label": "Requests for Production and Responses",
+      "participants": [
+        "Anita Desai",
+        "Sierra Vaughn",
+        "Naomi Price",
+        "Derek Cole"
+      ],
+      "tags": [
+        "discovery",
+        "document-production",
+        "release-form",
+        "emails",
+        "root-cause"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "shipment-release-form",
+        "bill-of-lading",
+        "root-cause-memo",
+        "inspection-email-chain"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "requests-for-production-and-responses-p2",
+      "chunk_type": "page",
+      "page_number": 2,
+      "page_marker": "Page 2",
+      "line_range": null,
+      "section_title": "Request for Production No. 3 | Response to Request for Production No. 3 | Request for Production No. 4 | Response to Request for Production No. 4",
+      "citation": {
+        "display_text": "Requests for Production and Responses, Page 2",
+        "page_number": 2,
+        "line_range": null,
+        "section_title": "Request for Production No. 3 | Response to Request for Production No. 3 | Request for Production No. 4 | Response to Request for Production No. 4"
+      },
+      "text": "### Request for Production No. 3\n\nProduce all documents reflecting customer complaints or rejection of Lot FC-902.\n\n### Response to Request for Production No. 3\n\nResponsive documents include the Meridian Mining Equipment Rejection Letter and related internal follow-up notes referenced in the Root Cause Memo.\n\n### Request for Production No. 4\n\nProduce all internal analyses of how the shipment was released despite the inspection concern.\n\n### Response to Request for Production No. 4\n\nResponsive documents include Internal Meeting Notes, the Nonconformance Report, the Corrective Action Plan, and the Root Cause Memo.",
+      "search_text": "Requests for Production and Responses\nPage 2\n### Request for Production No. 3\n\nProduce all documents reflecting customer complaints or rejection of Lot FC-902.\n\n### Response to Request for Production No. 3\n\nResponsive documents include the Meridian Mining Equipment Rejection Letter and related internal follow-up notes referenced in the Root Cause Memo.\n\n### Request for Production No. 4\n\nProduce all internal analyses of how the shipment was released despite the inspection concern.\n\n### Response to Request for Production No. 4\n\nResponsive documents include Internal Meeting Notes, the Nonconformance Report, the Corrective Action Plan, and the Root Cause Memo."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "requests-for-production-and-responses",
+      "doc_title": "Requests for Production and Responses",
+      "doc_type": "written_discovery_responses",
+      "source_path": "sample-docs/forge-v-axis/requests-for-production-and-responses.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-09-20",
+      "chunk_index": 3,
+      "citation_label": "Requests for Production and Responses",
+      "participants": [
+        "Anita Desai",
+        "Sierra Vaughn",
+        "Naomi Price",
+        "Derek Cole"
+      ],
+      "tags": [
+        "discovery",
+        "document-production",
+        "release-form",
+        "emails",
+        "root-cause"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "shipment-release-form",
+        "bill-of-lading",
+        "root-cause-memo",
+        "inspection-email-chain"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "requests-for-production-and-responses-p3",
+      "chunk_type": "page",
+      "page_number": 3,
+      "page_marker": "Page 3",
+      "line_range": null,
+      "section_title": "Request for Production No. 5 | Response to Request for Production No. 5 | Request for Production No. 6 | Response to Request for Production No. 6",
+      "citation": {
+        "display_text": "Requests for Production and Responses, Page 3",
+        "page_number": 3,
+        "line_range": null,
+        "section_title": "Request for Production No. 5 | Response to Request for Production No. 5 | Request for Production No. 6 | Response to Request for Production No. 6"
+      },
+      "text": "### Request for Production No. 5\n\nProduce all phone logs, text messages, or voicemails regarding the morning of 2025-05-21.\n\n### Response to Request for Production No. 5\n\nAfter reasonable search, ForgeLine has not located complete phone or voicemail records sufficient to show the content of all verbal communications that morning. ForgeLine will supplement if additional records are found.\n\n### Request for Production No. 6\n\nProduce all audit-log records showing when the Shipment Release Form was created or modified.\n\n### Response to Request for Production No. 6\n\nForgeLine produced the available system export referenced in the Corrective Action Plan. ForgeLine notes that the export reflects later print and save times, and disputes any inference that the printed record proves a completed approval existed before departure.",
+      "search_text": "Requests for Production and Responses\nPage 3\n### Request for Production No. 5\n\nProduce all phone logs, text messages, or voicemails regarding the morning of 2025-05-21.\n\n### Response to Request for Production No. 5\n\nAfter reasonable search, ForgeLine has not located complete phone or voicemail records sufficient to show the content of all verbal communications that morning. ForgeLine will supplement if additional records are found.\n\n### Request for Production No. 6\n\nProduce all audit-log records showing when the Shipment Release Form was created or modified.\n\n### Response to Request for Production No. 6\n\nForgeLine produced the available system export referenced in the Corrective Action Plan. ForgeLine notes that the export reflects later print and save times, and disputes any inference that the printed record proves a completed approval existed before departure."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "deposition-kyle-mercer",
+      "doc_title": "Deposition Transcript of Kyle Mercer",
+      "doc_type": "deposition_transcript_excerpt",
+      "source_path": "sample-docs/forge-v-axis/deposition-kyle-mercer.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-11-03",
+      "chunk_index": 1,
+      "citation_label": "Kyle Mercer Deposition",
+      "participants": [
+        "Kyle Mercer",
+        "Anita Desai",
+        "Grant Holcomb",
+        "Sierra Vaughn",
+        "Lucia Ramos"
+      ],
+      "tags": [
+        "deposition",
+        "witness-testimony",
+        "exhibit-7",
+        "hold-order",
+        "shipment-release"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "interrogatories-and-responses",
+        "inspection-email-chain",
+        "shipment-release-form",
+        "exhibit-7-inspection-report"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "deposition-kyle-mercer-p12-l4to23",
+      "chunk_type": "transcript_block",
+      "page_number": 12,
+      "page_marker": "Page 12",
+      "line_range": "4-23",
+      "section_title": "Page 12, Lines 4-23",
+      "citation": {
+        "display_text": "Kyle Mercer Deposition, Page 12, Lines 4-23",
+        "page_number": 12,
+        "line_range": "4-23",
+        "section_title": "Page 12, Lines 4-23"
+      },
+      "text": "**Q.** Please state your name and role as of 2025.  \n**A.** My name is Kyle Mercer. I was Plant Manager for ForgeLine Plant 5.  \n**Q.** Did Lot FC-902 fall within your responsibilities?  \n**A.** Yes. I oversaw production flow and outbound staging.  \n**Q.** Do you recall Axis inspecting that lot on 2025-05-20?  \n**A.** I do. Lucia Ramos from Axis was on the floor that afternoon.  \n**Q.** Did Ramos tell you there was a problem?  \n**A.** Yes. Lucia told me late that afternoon that the lot should not move until quality reviewed the findings.  \n**Q.** Did Lucia describe the problem?  \n**A.** Lucia mentioned race pitting on sampled bearing surfaces, metallic debris in the grease pack, and preload measurements outside specification.",
+      "search_text": "Deposition Transcript of Kyle Mercer\nPage 12, Lines 4-23\n**Q.** Please state your name and role as of 2025.  \n**A.** My name is Kyle Mercer. I was Plant Manager for ForgeLine Plant 5.  \n**Q.** Did Lot FC-902 fall within your responsibilities?  \n**A.** Yes. I oversaw production flow and outbound staging.  \n**Q.** Do you recall Axis inspecting that lot on 2025-05-20?  \n**A.** I do. Lucia Ramos from Axis was on the floor that afternoon.  \n**Q.** Did Ramos tell you there was a problem?  \n**A.** Yes. Lucia told me late that afternoon that the lot should not move until quality reviewed the findings.  \n**Q.** Did Lucia describe the problem?  \n**A.** Lucia mentioned race pitting on sampled bearing surfaces, metallic debris in the grease pack, and preload measurements outside specification."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "deposition-kyle-mercer",
+      "doc_title": "Deposition Transcript of Kyle Mercer",
+      "doc_type": "deposition_transcript_excerpt",
+      "source_path": "sample-docs/forge-v-axis/deposition-kyle-mercer.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-11-03",
+      "chunk_index": 2,
+      "citation_label": "Kyle Mercer Deposition",
+      "participants": [
+        "Kyle Mercer",
+        "Anita Desai",
+        "Grant Holcomb",
+        "Sierra Vaughn",
+        "Lucia Ramos"
+      ],
+      "tags": [
+        "deposition",
+        "witness-testimony",
+        "exhibit-7",
+        "hold-order",
+        "shipment-release"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "interrogatories-and-responses",
+        "inspection-email-chain",
+        "shipment-release-form",
+        "exhibit-7-inspection-report"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "deposition-kyle-mercer-p13-l2to21",
+      "chunk_type": "transcript_block",
+      "page_number": 13,
+      "page_marker": "Page 13",
+      "line_range": "2-21",
+      "section_title": "Page 13, Lines 2-21",
+      "citation": {
+        "display_text": "Kyle Mercer Deposition, Page 13, Lines 2-21",
+        "page_number": 13,
+        "line_range": "2-21",
+        "section_title": "Page 13, Lines 2-21"
+      },
+      "text": "**Q.** Did you review Exhibit 7 before Truck 6614 left on 2025-05-21?  \n**A.** I did not study the full report, but Anita Desai sent me the PDF on the evening of 2025-05-20 and I looked at the first page.  \n**Q.** What did you see?  \n**A.** I saw hold language and a note about race pitting on sampled bearing surfaces.  \n**Q.** Did you understand that to mean the lot had failed inspection?  \n**A.** I understood it meant the lot should stay put until somebody above me cleared it.  \n**Q.** Who did you think had authority to clear it?  \n**A.** Anita Desai from quality or Grant Holcomb from operations.  \n**Q.** Did you think the issues were cosmetic?  \n**A.** No. They sounded serious to me.",
+      "search_text": "Deposition Transcript of Kyle Mercer\nPage 13, Lines 2-21\n**Q.** Did you review Exhibit 7 before Truck 6614 left on 2025-05-21?  \n**A.** I did not study the full report, but Anita Desai sent me the PDF on the evening of 2025-05-20 and I looked at the first page.  \n**Q.** What did you see?  \n**A.** I saw hold language and a note about race pitting on sampled bearing surfaces.  \n**Q.** Did you understand that to mean the lot had failed inspection?  \n**A.** I understood it meant the lot should stay put until somebody above me cleared it.  \n**Q.** Who did you think had authority to clear it?  \n**A.** Anita Desai from quality or Grant Holcomb from operations.  \n**Q.** Did you think the issues were cosmetic?  \n**A.** No. They sounded serious to me."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "deposition-kyle-mercer",
+      "doc_title": "Deposition Transcript of Kyle Mercer",
+      "doc_type": "deposition_transcript_excerpt",
+      "source_path": "sample-docs/forge-v-axis/deposition-kyle-mercer.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-11-03",
+      "chunk_index": 3,
+      "citation_label": "Kyle Mercer Deposition",
+      "participants": [
+        "Kyle Mercer",
+        "Anita Desai",
+        "Grant Holcomb",
+        "Sierra Vaughn",
+        "Lucia Ramos"
+      ],
+      "tags": [
+        "deposition",
+        "witness-testimony",
+        "exhibit-7",
+        "hold-order",
+        "shipment-release"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "interrogatories-and-responses",
+        "inspection-email-chain",
+        "shipment-release-form",
+        "exhibit-7-inspection-report"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "deposition-kyle-mercer-p14-l5to23",
+      "chunk_type": "transcript_block",
+      "page_number": 14,
+      "page_marker": "Page 14",
+      "line_range": "5-23",
+      "section_title": "Page 14, Lines 5-23",
+      "citation": {
+        "display_text": "Kyle Mercer Deposition, Page 14, Lines 5-23",
+        "page_number": 14,
+        "line_range": "5-23",
+        "section_title": "Page 14, Lines 5-23"
+      },
+      "text": "**Q.** What happened on the morning of 2025-05-21?  \n**A.** Sierra Vaughn called from the dock before seven and said Truck 6614 was already staged.  \n**Q.** What did you tell Sierra?  \n**A.** I told Sierra to keep the truck parked unless Grant Holcomb or Anita Desai cleared the release.  \n**Q.** Did you speak with Grant Holcomb live before the truck left?  \n**A.** I do not remember a live call. I sent a message and left a voicemail.  \n**Q.** Did you personally authorize the truck to leave?  \n**A.** No.  \n**Q.** Did you see a signed release?  \n**A.** No. I never saw a signed release in real time.",
+      "search_text": "Deposition Transcript of Kyle Mercer\nPage 14, Lines 5-23\n**Q.** What happened on the morning of 2025-05-21?  \n**A.** Sierra Vaughn called from the dock before seven and said Truck 6614 was already staged.  \n**Q.** What did you tell Sierra?  \n**A.** I told Sierra to keep the truck parked unless Grant Holcomb or Anita Desai cleared the release.  \n**Q.** Did you speak with Grant Holcomb live before the truck left?  \n**A.** I do not remember a live call. I sent a message and left a voicemail.  \n**Q.** Did you personally authorize the truck to leave?  \n**A.** No.  \n**Q.** Did you see a signed release?  \n**A.** No. I never saw a signed release in real time."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "deposition-kyle-mercer",
+      "doc_title": "Deposition Transcript of Kyle Mercer",
+      "doc_type": "deposition_transcript_excerpt",
+      "source_path": "sample-docs/forge-v-axis/deposition-kyle-mercer.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-11-03",
+      "chunk_index": 4,
+      "citation_label": "Kyle Mercer Deposition",
+      "participants": [
+        "Kyle Mercer",
+        "Anita Desai",
+        "Grant Holcomb",
+        "Sierra Vaughn",
+        "Lucia Ramos"
+      ],
+      "tags": [
+        "deposition",
+        "witness-testimony",
+        "exhibit-7",
+        "hold-order",
+        "shipment-release"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "interrogatories-and-responses",
+        "inspection-email-chain",
+        "shipment-release-form",
+        "exhibit-7-inspection-report"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "deposition-kyle-mercer-p15-l3to19",
+      "chunk_type": "transcript_block",
+      "page_number": 15,
+      "page_marker": "Page 15",
+      "line_range": "3-19",
+      "section_title": "Page 15, Lines 3-19",
+      "citation": {
+        "display_text": "Kyle Mercer Deposition, Page 15, Lines 3-19",
+        "page_number": 15,
+        "line_range": "3-19",
+        "section_title": "Page 15, Lines 3-19"
+      },
+      "text": "**Q.** When do you believe management first knew the lot had failed inspection?  \n**A.** Anita Desai knew on 2025-05-20 because Anita was dealing directly with Lucia. I knew on 2025-05-20 from Lucia and from the first page of Exhibit 7.  \n**Q.** Are you able to identify the person who changed the shipment from hold to release?  \n**A.** No. I cannot identify that person with certainty.  \n**Q.** Do you know whether Grant Holcomb gave a verbal release?  \n**A.** I heard people speculate about that later, but I did not hear Grant give that instruction myself.",
+      "search_text": "Deposition Transcript of Kyle Mercer\nPage 15, Lines 3-19\n**Q.** When do you believe management first knew the lot had failed inspection?  \n**A.** Anita Desai knew on 2025-05-20 because Anita was dealing directly with Lucia. I knew on 2025-05-20 from Lucia and from the first page of Exhibit 7.  \n**Q.** Are you able to identify the person who changed the shipment from hold to release?  \n**A.** No. I cannot identify that person with certainty.  \n**Q.** Do you know whether Grant Holcomb gave a verbal release?  \n**A.** I heard people speculate about that later, but I did not hear Grant give that instruction myself."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "deposition-anita-desai",
+      "doc_title": "Deposition Transcript of Anita Desai",
+      "doc_type": "deposition_transcript_excerpt",
+      "source_path": "sample-docs/forge-v-axis/deposition-anita-desai.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-11-10",
+      "chunk_index": 1,
+      "citation_label": "Anita Desai Deposition",
+      "participants": [
+        "Anita Desai",
+        "Kyle Mercer",
+        "Grant Holcomb",
+        "Lucia Ramos",
+        "Derek Cole"
+      ],
+      "tags": [
+        "deposition",
+        "quality",
+        "exhibit-7",
+        "timeline",
+        "customer-pressure"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "deposition-kyle-mercer",
+        "inspection-email-chain",
+        "nonconformance-report",
+        "internal-meeting-notes"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "deposition-anita-desai-p41-l6to24",
+      "chunk_type": "transcript_block",
+      "page_number": 41,
+      "page_marker": "Page 41",
+      "line_range": "6-24",
+      "section_title": "Page 41, Lines 6-24",
+      "citation": {
+        "display_text": "Anita Desai Deposition, Page 41, Lines 6-24",
+        "page_number": 41,
+        "line_range": "6-24",
+        "section_title": "Page 41, Lines 6-24"
+      },
+      "text": "**Q.** Please state your name and role as of 2025.  \n**A.** Anita Desai. I was ForgeLine's Director of Quality.  \n**Q.** Were you the primary quality contact for the FC-902 inspection?  \n**A.** Yes. Lucia Ramos contacted me during and after the inspection.  \n**Q.** When did you first learn there was a hold recommendation?  \n**A.** Lucia called me at approximately 5:52 p.m. on 2025-05-20 and said the lot should not ship pending review.  \n**Q.** Did you treat that as final?  \n**A.** I treated it as a real hold, but I was still waiting on the finished PDF report.  \n**Q.** Did anyone from operations pressure you to keep the shipment moving?  \n**A.** Derek Cole was escalating customer pressure all evening.",
+      "search_text": "Deposition Transcript of Anita Desai\nPage 41, Lines 6-24\n**Q.** Please state your name and role as of 2025.  \n**A.** Anita Desai. I was ForgeLine's Director of Quality.  \n**Q.** Were you the primary quality contact for the FC-902 inspection?  \n**A.** Yes. Lucia Ramos contacted me during and after the inspection.  \n**Q.** When did you first learn there was a hold recommendation?  \n**A.** Lucia called me at approximately 5:52 p.m. on 2025-05-20 and said the lot should not ship pending review.  \n**Q.** Did you treat that as final?  \n**A.** I treated it as a real hold, but I was still waiting on the finished PDF report.  \n**Q.** Did anyone from operations pressure you to keep the shipment moving?  \n**A.** Derek Cole was escalating customer pressure all evening."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "deposition-anita-desai",
+      "doc_title": "Deposition Transcript of Anita Desai",
+      "doc_type": "deposition_transcript_excerpt",
+      "source_path": "sample-docs/forge-v-axis/deposition-anita-desai.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-11-10",
+      "chunk_index": 2,
+      "citation_label": "Anita Desai Deposition",
+      "participants": [
+        "Anita Desai",
+        "Kyle Mercer",
+        "Grant Holcomb",
+        "Lucia Ramos",
+        "Derek Cole"
+      ],
+      "tags": [
+        "deposition",
+        "quality",
+        "exhibit-7",
+        "timeline",
+        "customer-pressure"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "deposition-kyle-mercer",
+        "inspection-email-chain",
+        "nonconformance-report",
+        "internal-meeting-notes"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "deposition-anita-desai-p42-l3to22",
+      "chunk_type": "transcript_block",
+      "page_number": 42,
+      "page_marker": "Page 42",
+      "line_range": "3-22",
+      "section_title": "Page 42, Lines 3-22",
+      "citation": {
+        "display_text": "Anita Desai Deposition, Page 42, Lines 3-22",
+        "page_number": 42,
+        "line_range": "3-22",
+        "section_title": "Page 42, Lines 3-22"
+      },
+      "text": "**Q.** When did you forward Exhibit 7 to other personnel?  \n**A.** The complete PDF went out just after midnight, at about 12:14 a.m. on 2025-05-21.  \n**Q.** Did Kyle Mercer receive it before that?  \n**A.** Not the complete PDF from me. Before midnight Kyle only had my verbal summary and maybe a screenshot of the cover page, not the full report.  \n**Q.** Did you tell anyone the issues were merely cosmetic?  \n**A.** I said surface discoloration on the outer housings might turn out to be cosmetic, but the hold recommendation was not cosmetic.  \n**Q.** Did you ever authorize release?  \n**A.** No. I did not authorize release.",
+      "search_text": "Deposition Transcript of Anita Desai\nPage 42, Lines 3-22\n**Q.** When did you forward Exhibit 7 to other personnel?  \n**A.** The complete PDF went out just after midnight, at about 12:14 a.m. on 2025-05-21.  \n**Q.** Did Kyle Mercer receive it before that?  \n**A.** Not the complete PDF from me. Before midnight Kyle only had my verbal summary and maybe a screenshot of the cover page, not the full report.  \n**Q.** Did you tell anyone the issues were merely cosmetic?  \n**A.** I said surface discoloration on the outer housings might turn out to be cosmetic, but the hold recommendation was not cosmetic.  \n**Q.** Did you ever authorize release?  \n**A.** No. I did not authorize release."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "deposition-anita-desai",
+      "doc_title": "Deposition Transcript of Anita Desai",
+      "doc_type": "deposition_transcript_excerpt",
+      "source_path": "sample-docs/forge-v-axis/deposition-anita-desai.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-11-10",
+      "chunk_index": 3,
+      "citation_label": "Anita Desai Deposition",
+      "participants": [
+        "Anita Desai",
+        "Kyle Mercer",
+        "Grant Holcomb",
+        "Lucia Ramos",
+        "Derek Cole"
+      ],
+      "tags": [
+        "deposition",
+        "quality",
+        "exhibit-7",
+        "timeline",
+        "customer-pressure"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "deposition-kyle-mercer",
+        "inspection-email-chain",
+        "nonconformance-report",
+        "internal-meeting-notes"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "deposition-anita-desai-p43-l8to25",
+      "chunk_type": "transcript_block",
+      "page_number": 43,
+      "page_marker": "Page 43",
+      "line_range": "8-25",
+      "section_title": "Page 43, Lines 8-25",
+      "citation": {
+        "display_text": "Anita Desai Deposition, Page 43, Lines 8-25",
+        "page_number": 43,
+        "line_range": "8-25",
+        "section_title": "Page 43, Lines 8-25"
+      },
+      "text": "**Q.** What do you recall Grant Holcomb saying?  \n**A.** Grant said words to the effect of, \"Keep the delivery slot if you can, but do not ship without a green light.\"  \n**Q.** Did Grant later tell you the lot could go?  \n**A.** Not directly to me.  \n**Q.** Did you communicate a hold to Kyle Mercer?  \n**A.** Yes. I told Kyle on 2025-05-20 that Axis had the lot on hold and that the written report would follow.  \n**Q.** Did Kyle seem to understand the seriousness?  \n**A.** Yes. Kyle did not sound like someone who thought it was a minor issue.",
+      "search_text": "Deposition Transcript of Anita Desai\nPage 43, Lines 8-25\n**Q.** What do you recall Grant Holcomb saying?  \n**A.** Grant said words to the effect of, \"Keep the delivery slot if you can, but do not ship without a green light.\"  \n**Q.** Did Grant later tell you the lot could go?  \n**A.** Not directly to me.  \n**Q.** Did you communicate a hold to Kyle Mercer?  \n**A.** Yes. I told Kyle on 2025-05-20 that Axis had the lot on hold and that the written report would follow.  \n**Q.** Did Kyle seem to understand the seriousness?  \n**A.** Yes. Kyle did not sound like someone who thought it was a minor issue."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "deposition-anita-desai",
+      "doc_title": "Deposition Transcript of Anita Desai",
+      "doc_type": "deposition_transcript_excerpt",
+      "source_path": "sample-docs/forge-v-axis/deposition-anita-desai.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-11-10",
+      "chunk_index": 4,
+      "citation_label": "Anita Desai Deposition",
+      "participants": [
+        "Anita Desai",
+        "Kyle Mercer",
+        "Grant Holcomb",
+        "Lucia Ramos",
+        "Derek Cole"
+      ],
+      "tags": [
+        "deposition",
+        "quality",
+        "exhibit-7",
+        "timeline",
+        "customer-pressure"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "deposition-kyle-mercer",
+        "inspection-email-chain",
+        "nonconformance-report",
+        "internal-meeting-notes"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "deposition-anita-desai-p44-l4to18",
+      "chunk_type": "transcript_block",
+      "page_number": 44,
+      "page_marker": "Page 44",
+      "line_range": "4-18",
+      "section_title": "Page 44, Lines 4-18",
+      "citation": {
+        "display_text": "Anita Desai Deposition, Page 44, Lines 4-18",
+        "page_number": 44,
+        "line_range": "4-18",
+        "section_title": "Page 44, Lines 4-18"
+      },
+      "text": "**Q.** Do you know who gave the final release instruction on 2025-05-21?  \n**A.** No. I do not.  \n**Q.** Did you later see the shipment release form with Grant Holcomb's name on it?  \n**A.** Yes. I saw it later, not before the truck left.  \n**Q.** Did that form answer the question for you?  \n**A.** No. I still could not tell whether the form reflected a real-time approval or a later system entry.",
+      "search_text": "Deposition Transcript of Anita Desai\nPage 44, Lines 4-18\n**Q.** Do you know who gave the final release instruction on 2025-05-21?  \n**A.** No. I do not.  \n**Q.** Did you later see the shipment release form with Grant Holcomb's name on it?  \n**A.** Yes. I saw it later, not before the truck left.  \n**Q.** Did that form answer the question for you?  \n**A.** No. I still could not tell whether the form reflected a real-time approval or a later system entry."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "deposition-sierra-vaughn",
+      "doc_title": "Deposition Transcript of Sierra Vaughn",
+      "doc_type": "deposition_transcript_excerpt",
+      "source_path": "sample-docs/forge-v-axis/deposition-sierra-vaughn.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-11-18",
+      "chunk_index": 1,
+      "citation_label": "Sierra Vaughn Deposition",
+      "participants": [
+        "Sierra Vaughn",
+        "Kyle Mercer",
+        "Grant Holcomb",
+        "Anita Desai"
+      ],
+      "tags": [
+        "deposition",
+        "warehouse",
+        "shipment-release",
+        "release-form",
+        "dock-operations"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "shipment-release-form",
+        "bill-of-lading",
+        "inspection-email-chain",
+        "deposition-kyle-mercer"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "deposition-sierra-vaughn-p63-l5to23",
+      "chunk_type": "transcript_block",
+      "page_number": 63,
+      "page_marker": "Page 63",
+      "line_range": "5-23",
+      "section_title": "Page 63, Lines 5-23",
+      "citation": {
+        "display_text": "Sierra Vaughn Deposition, Page 63, Lines 5-23",
+        "page_number": 63,
+        "line_range": "5-23",
+        "section_title": "Page 63, Lines 5-23"
+      },
+      "text": "**Q.** Please state your name and role.  \n**A.** Sierra Vaughn. I supervised the warehouse dock at ForgeLine Plant 5.  \n**Q.** Were you involved with loading Truck 6614 on 2025-05-21?  \n**A.** Yes. The truck was already at the door before seven that morning.  \n**Q.** Did you know there had been an inspection issue?  \n**A.** I knew there was some kind of quality concern, but I did not have the report itself.",
+      "search_text": "Deposition Transcript of Sierra Vaughn\nPage 63, Lines 5-23\n**Q.** Please state your name and role.  \n**A.** Sierra Vaughn. I supervised the warehouse dock at ForgeLine Plant 5.  \n**Q.** Were you involved with loading Truck 6614 on 2025-05-21?  \n**A.** Yes. The truck was already at the door before seven that morning.  \n**Q.** Did you know there had been an inspection issue?  \n**A.** I knew there was some kind of quality concern, but I did not have the report itself."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "deposition-sierra-vaughn",
+      "doc_title": "Deposition Transcript of Sierra Vaughn",
+      "doc_type": "deposition_transcript_excerpt",
+      "source_path": "sample-docs/forge-v-axis/deposition-sierra-vaughn.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-11-18",
+      "chunk_index": 2,
+      "citation_label": "Sierra Vaughn Deposition",
+      "participants": [
+        "Sierra Vaughn",
+        "Kyle Mercer",
+        "Grant Holcomb",
+        "Anita Desai"
+      ],
+      "tags": [
+        "deposition",
+        "warehouse",
+        "shipment-release",
+        "release-form",
+        "dock-operations"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "shipment-release-form",
+        "bill-of-lading",
+        "inspection-email-chain",
+        "deposition-kyle-mercer"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "deposition-sierra-vaughn-p64-l3to22",
+      "chunk_type": "transcript_block",
+      "page_number": 64,
+      "page_marker": "Page 64",
+      "line_range": "3-22",
+      "section_title": "Page 64, Lines 3-22",
+      "citation": {
+        "display_text": "Sierra Vaughn Deposition, Page 64, Lines 3-22",
+        "page_number": 64,
+        "line_range": "3-22",
+        "section_title": "Page 64, Lines 3-22"
+      },
+      "text": "**Q.** What did Kyle Mercer tell you that morning?  \n**A.** Kyle said not to lose the truck and to wait for direction.  \n**Q.** Did Kyle tell you plainly, \"Do not release the truck\"?  \n**A.** Not in those exact words.  \n**Q.** Did anyone from quality tell you the truck was on hold?  \n**A.** I do not remember a direct call from quality.  \n**Q.** Did you email asking whether the truck should hold or roll?  \n**A.** Yes. I sent an email because I did not have a clean answer.",
+      "search_text": "Deposition Transcript of Sierra Vaughn\nPage 64, Lines 3-22\n**Q.** What did Kyle Mercer tell you that morning?  \n**A.** Kyle said not to lose the truck and to wait for direction.  \n**Q.** Did Kyle tell you plainly, \"Do not release the truck\"?  \n**A.** Not in those exact words.  \n**Q.** Did anyone from quality tell you the truck was on hold?  \n**A.** I do not remember a direct call from quality.  \n**Q.** Did you email asking whether the truck should hold or roll?  \n**A.** Yes. I sent an email because I did not have a clean answer."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "deposition-sierra-vaughn",
+      "doc_title": "Deposition Transcript of Sierra Vaughn",
+      "doc_type": "deposition_transcript_excerpt",
+      "source_path": "sample-docs/forge-v-axis/deposition-sierra-vaughn.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-11-18",
+      "chunk_index": 3,
+      "citation_label": "Sierra Vaughn Deposition",
+      "participants": [
+        "Sierra Vaughn",
+        "Kyle Mercer",
+        "Grant Holcomb",
+        "Anita Desai"
+      ],
+      "tags": [
+        "deposition",
+        "warehouse",
+        "shipment-release",
+        "release-form",
+        "dock-operations"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "shipment-release-form",
+        "bill-of-lading",
+        "inspection-email-chain",
+        "deposition-kyle-mercer"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "deposition-sierra-vaughn-p65-l6to24",
+      "chunk_type": "transcript_block",
+      "page_number": 65,
+      "page_marker": "Page 65",
+      "line_range": "6-24",
+      "section_title": "Page 65, Lines 6-24",
+      "citation": {
+        "display_text": "Sierra Vaughn Deposition, Page 65, Lines 6-24",
+        "page_number": 65,
+        "line_range": "6-24",
+        "section_title": "Page 65, Lines 6-24"
+      },
+      "text": "**Q.** Did you see a shipment release form before the truck left?  \n**A.** I saw a release printout listing Grant Holcomb as the operations approver sometime around 6:45 or so.  \n**Q.** Was it signed?  \n**A.** Not with a handwritten signature. It looked like an internal form.  \n**Q.** Did Grant Holcomb tell you directly to let the truck go?  \n**A.** No. I never spoke to Grant directly that morning.  \n**Q.** So what did you rely on?  \n**A.** A mix of the screen form, dispatch chatter, and the sense that operations wanted the load to move.",
+      "search_text": "Deposition Transcript of Sierra Vaughn\nPage 65, Lines 6-24\n**Q.** Did you see a shipment release form before the truck left?  \n**A.** I saw a release printout listing Grant Holcomb as the operations approver sometime around 6:45 or so.  \n**Q.** Was it signed?  \n**A.** Not with a handwritten signature. It looked like an internal form.  \n**Q.** Did Grant Holcomb tell you directly to let the truck go?  \n**A.** No. I never spoke to Grant directly that morning.  \n**Q.** So what did you rely on?  \n**A.** A mix of the screen form, dispatch chatter, and the sense that operations wanted the load to move."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "deposition-sierra-vaughn",
+      "doc_title": "Deposition Transcript of Sierra Vaughn",
+      "doc_type": "deposition_transcript_excerpt",
+      "source_path": "sample-docs/forge-v-axis/deposition-sierra-vaughn.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-11-18",
+      "chunk_index": 4,
+      "citation_label": "Sierra Vaughn Deposition",
+      "participants": [
+        "Sierra Vaughn",
+        "Kyle Mercer",
+        "Grant Holcomb",
+        "Anita Desai"
+      ],
+      "tags": [
+        "deposition",
+        "warehouse",
+        "shipment-release",
+        "release-form",
+        "dock-operations"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "shipment-release-form",
+        "bill-of-lading",
+        "inspection-email-chain",
+        "deposition-kyle-mercer"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "deposition-sierra-vaughn-p66-l2to18",
+      "chunk_type": "transcript_block",
+      "page_number": 66,
+      "page_marker": "Page 66",
+      "line_range": "2-18",
+      "section_title": "Page 66, Lines 2-18",
+      "citation": {
+        "display_text": "Sierra Vaughn Deposition, Page 66, Lines 2-18",
+        "page_number": 66,
+        "line_range": "2-18",
+        "section_title": "Page 66, Lines 2-18"
+      },
+      "text": "**Q.** Who gave the final approval in your mind?  \n**A.** I cannot say for sure.  \n**Q.** Did you believe Kyle Mercer had approved it?  \n**A.** No. I did not think Kyle had personally approved it.  \n**Q.** Did anyone ever clearly tell you, \"Quality has released the lot\"?  \n**A.** No. No one gave me that exact message.",
+      "search_text": "Deposition Transcript of Sierra Vaughn\nPage 66, Lines 2-18\n**Q.** Who gave the final approval in your mind?  \n**A.** I cannot say for sure.  \n**Q.** Did you believe Kyle Mercer had approved it?  \n**A.** No. I did not think Kyle had personally approved it.  \n**Q.** Did anyone ever clearly tell you, \"Quality has released the lot\"?  \n**A.** No. No one gave me that exact message."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "exhibit-7-inspection-report",
+      "doc_title": "Exhibit 7 Inspection Report",
+      "doc_type": "inspection_report",
+      "source_path": "sample-docs/forge-v-axis/exhibit-7-inspection-report.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-20",
+      "chunk_index": 1,
+      "citation_label": "Exhibit 7 Inspection Report",
+      "participants": [
+        "Lucia Ramos",
+        "Anita Desai",
+        "Kyle Mercer"
+      ],
+      "tags": [
+        "inspection",
+        "exhibit-7",
+        "fail-hold",
+        "quality",
+        "findings"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "nonconformance-report",
+        "inspection-email-chain",
+        "deposition-kyle-mercer",
+        "complaint"
+      ],
+      "exhibit_number": 7,
+      "chunk_id": "exhibit-7-inspection-report-p1",
+      "chunk_type": "page",
+      "page_number": 1,
+      "page_marker": "Page 1",
+      "line_range": null,
+      "section_title": "Report Header | Executive Findings",
+      "citation": {
+        "display_text": "Exhibit 7 Inspection Report, Page 1",
+        "page_number": 1,
+        "line_range": null,
+        "section_title": "Report Header | Executive Findings"
+      },
+      "text": "### Report Header\n\n- Report Number: AA-FC902-052025\n- Inspector: Lucia Ramos\n- Customer: ForgeLine Components, Inc.\n- Lot: FC-902\n- Product: industrial bearing cartridges\n- Inspection Date: 2025-05-20\n- Location: ForgeLine Plant 5\n- Disposition: HOLD / DO NOT SHIP\n\n### Executive Findings\n\nAxis identified multiple material concerns during sampling of Lot FC-902, including race pitting on sampled bearing surfaces, metallic debris in the grease pack, and preload measurements outside specification. Based on the combined findings, the lot does not meet release criteria and should not ship pending quality and operations review.",
+      "search_text": "Exhibit 7 Inspection Report\nPage 1\n### Report Header\n\n- Report Number: AA-FC902-052025\n- Inspector: Lucia Ramos\n- Customer: ForgeLine Components, Inc.\n- Lot: FC-902\n- Product: industrial bearing cartridges\n- Inspection Date: 2025-05-20\n- Location: ForgeLine Plant 5\n- Disposition: HOLD / DO NOT SHIP\n\n### Executive Findings\n\nAxis identified multiple material concerns during sampling of Lot FC-902, including race pitting on sampled bearing surfaces, metallic debris in the grease pack, and preload measurements outside specification. Based on the combined findings, the lot does not meet release criteria and should not ship pending quality and operations review."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "exhibit-7-inspection-report",
+      "doc_title": "Exhibit 7 Inspection Report",
+      "doc_type": "inspection_report",
+      "source_path": "sample-docs/forge-v-axis/exhibit-7-inspection-report.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-20",
+      "chunk_index": 2,
+      "citation_label": "Exhibit 7 Inspection Report",
+      "participants": [
+        "Lucia Ramos",
+        "Anita Desai",
+        "Kyle Mercer"
+      ],
+      "tags": [
+        "inspection",
+        "exhibit-7",
+        "fail-hold",
+        "quality",
+        "findings"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "nonconformance-report",
+        "inspection-email-chain",
+        "deposition-kyle-mercer",
+        "complaint"
+      ],
+      "exhibit_number": 7,
+      "chunk_id": "exhibit-7-inspection-report-p2",
+      "chunk_type": "page",
+      "page_number": 2,
+      "page_marker": "Page 2",
+      "line_range": null,
+      "section_title": "Observation Summary | Recommendation",
+      "citation": {
+        "display_text": "Exhibit 7 Inspection Report, Page 2",
+        "page_number": 2,
+        "line_range": null,
+        "section_title": "Observation Summary | Recommendation"
+      },
+      "text": "### Observation Summary\n\n1. Sampled units showed race pitting on sampled bearing surfaces.\n2. Additional units showed metallic debris in the grease pack.\n3. Measurements confirmed preload measurements outside specification.\n4. Surface discoloration on the outer housings was also observed; while that condition alone might be evaluated further, the total condition of the lot supports a hold.\n\n### Recommendation\n\nAxis recommends immediate hold of Lot FC-902, segregation from released inventory, and customer notification before shipment. The lot should not move until ForgeLine quality and operations jointly approve a disposition after reviewing the written findings.",
+      "search_text": "Exhibit 7 Inspection Report\nPage 2\n### Observation Summary\n\n1. Sampled units showed race pitting on sampled bearing surfaces.\n2. Additional units showed metallic debris in the grease pack.\n3. Measurements confirmed preload measurements outside specification.\n4. Surface discoloration on the outer housings was also observed; while that condition alone might be evaluated further, the total condition of the lot supports a hold.\n\n### Recommendation\n\nAxis recommends immediate hold of Lot FC-902, segregation from released inventory, and customer notification before shipment. The lot should not move until ForgeLine quality and operations jointly approve a disposition after reviewing the written findings."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "exhibit-7-inspection-report",
+      "doc_title": "Exhibit 7 Inspection Report",
+      "doc_type": "inspection_report",
+      "source_path": "sample-docs/forge-v-axis/exhibit-7-inspection-report.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-20",
+      "chunk_index": 3,
+      "citation_label": "Exhibit 7 Inspection Report",
+      "participants": [
+        "Lucia Ramos",
+        "Anita Desai",
+        "Kyle Mercer"
+      ],
+      "tags": [
+        "inspection",
+        "exhibit-7",
+        "fail-hold",
+        "quality",
+        "findings"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "nonconformance-report",
+        "inspection-email-chain",
+        "deposition-kyle-mercer",
+        "complaint"
+      ],
+      "exhibit_number": 7,
+      "chunk_id": "exhibit-7-inspection-report-p3",
+      "chunk_type": "page",
+      "page_number": 3,
+      "page_marker": "Page 3",
+      "line_range": null,
+      "section_title": "Distribution and Notice | Inspector Note",
+      "citation": {
+        "display_text": "Exhibit 7 Inspection Report, Page 3",
+        "page_number": 3,
+        "line_range": null,
+        "section_title": "Distribution and Notice | Inspector Note"
+      },
+      "text": "### Distribution and Notice\n\n- Verbal hold notice to Anita Desai at approximately 17:52 on 2025-05-20.\n- Verbal summary to Kyle Mercer at approximately 18:05 on 2025-05-20.\n- Preliminary PDF issued at approximately 18:42 on 2025-05-20.\n- Full report circulated after final formatting.\n\n### Inspector Note\n\nThese findings are significant. The observed conditions are not described here as merely cosmetic.",
+      "search_text": "Exhibit 7 Inspection Report\nPage 3\n### Distribution and Notice\n\n- Verbal hold notice to Anita Desai at approximately 17:52 on 2025-05-20.\n- Verbal summary to Kyle Mercer at approximately 18:05 on 2025-05-20.\n- Preliminary PDF issued at approximately 18:42 on 2025-05-20.\n- Full report circulated after final formatting.\n\n### Inspector Note\n\nThese findings are significant. The observed conditions are not described here as merely cosmetic."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "nonconformance-report",
+      "doc_title": "Nonconformance Report NCR-25-0523",
+      "doc_type": "quality_nonconformance_report",
+      "source_path": "sample-docs/forge-v-axis/nonconformance-report.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-21",
+      "chunk_index": 1,
+      "citation_label": "Nonconformance Report",
+      "participants": [
+        "Anita Desai",
+        "Naomi Price",
+        "Kyle Mercer",
+        "Sierra Vaughn"
+      ],
+      "tags": [
+        "quality",
+        "ncr",
+        "containment",
+        "hold",
+        "open-issues"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "exhibit-7-inspection-report",
+        "corrective-action-plan",
+        "shipment-release-form",
+        "internal-meeting-notes"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "nonconformance-report-p1",
+      "chunk_type": "page",
+      "page_number": 1,
+      "page_marker": "Page 1",
+      "line_range": null,
+      "section_title": "Header | Problem Statement",
+      "citation": {
+        "display_text": "Nonconformance Report, Page 1",
+        "page_number": 1,
+        "line_range": null,
+        "section_title": "Header | Problem Statement"
+      },
+      "text": "### Header\n\n- NCR Number: NCR-25-0523\n- Opened By: Anita Desai\n- Opened On: 2025-05-21 09:35\n- Affected Lot: FC-902\n- Related Exhibit: Exhibit 7\n- Immediate Status: Quarantine Remaining Inventory\n\n### Problem Statement\n\nLot FC-902 was identified by Axis as a failed or hold lot on 2025-05-20, but Truck 6614 departed on 2025-05-21 before the release path was documented in a reliable way.",
+      "search_text": "Nonconformance Report NCR-25-0523\nPage 1\n### Header\n\n- NCR Number: NCR-25-0523\n- Opened By: Anita Desai\n- Opened On: 2025-05-21 09:35\n- Affected Lot: FC-902\n- Related Exhibit: Exhibit 7\n- Immediate Status: Quarantine Remaining Inventory\n\n### Problem Statement\n\nLot FC-902 was identified by Axis as a failed or hold lot on 2025-05-20, but Truck 6614 departed on 2025-05-21 before the release path was documented in a reliable way."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "nonconformance-report",
+      "doc_title": "Nonconformance Report NCR-25-0523",
+      "doc_type": "quality_nonconformance_report",
+      "source_path": "sample-docs/forge-v-axis/nonconformance-report.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-21",
+      "chunk_index": 2,
+      "citation_label": "Nonconformance Report",
+      "participants": [
+        "Anita Desai",
+        "Naomi Price",
+        "Kyle Mercer",
+        "Sierra Vaughn"
+      ],
+      "tags": [
+        "quality",
+        "ncr",
+        "containment",
+        "hold",
+        "open-issues"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "exhibit-7-inspection-report",
+        "corrective-action-plan",
+        "shipment-release-form",
+        "internal-meeting-notes"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "nonconformance-report-p2",
+      "chunk_type": "page",
+      "page_number": 2,
+      "page_marker": "Page 2",
+      "line_range": null,
+      "section_title": "Containment and Open Issues | Open Questions",
+      "citation": {
+        "display_text": "Nonconformance Report, Page 2",
+        "page_number": 2,
+        "line_range": null,
+        "section_title": "Containment and Open Issues | Open Questions"
+      },
+      "text": "### Containment and Open Issues\n\n- Remaining inventory from the production run was quarantined.\n- Meridian Mining Equipment was notified that a field review was underway.\n- Warehouse release controls were suspended pending review.\n\n### Open Questions\n\n1. Who gave the final instruction to release Truck 6614?\n2. Was the Grant Holcomb approval entry on the Shipment Release Form entered before or after departure?\n3. Did dock personnel receive a clear hold instruction, or only a request to wait for more direction?",
+      "search_text": "Nonconformance Report NCR-25-0523\nPage 2\n### Containment and Open Issues\n\n- Remaining inventory from the production run was quarantined.\n- Meridian Mining Equipment was notified that a field review was underway.\n- Warehouse release controls were suspended pending review.\n\n### Open Questions\n\n1. Who gave the final instruction to release Truck 6614?\n2. Was the Grant Holcomb approval entry on the Shipment Release Form entered before or after departure?\n3. Did dock personnel receive a clear hold instruction, or only a request to wait for more direction?"
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "corrective-action-plan",
+      "doc_title": "Corrective Action Plan",
+      "doc_type": "corrective_action_plan",
+      "source_path": "sample-docs/forge-v-axis/corrective-action-plan.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-23",
+      "chunk_index": 1,
+      "citation_label": "Corrective Action Plan",
+      "participants": [
+        "Naomi Price",
+        "Anita Desai",
+        "Grant Holcomb",
+        "Sierra Vaughn"
+      ],
+      "tags": [
+        "capa",
+        "process-controls",
+        "audit-log",
+        "release-form"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "nonconformance-report",
+        "root-cause-memo",
+        "shipment-release-form"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "corrective-action-plan-p1",
+      "chunk_type": "page",
+      "page_number": 1,
+      "page_marker": "Page 1",
+      "line_range": null,
+      "section_title": "Immediate Corrective Actions",
+      "citation": {
+        "display_text": "Corrective Action Plan, Page 1",
+        "page_number": 1,
+        "line_range": null,
+        "section_title": "Immediate Corrective Actions"
+      },
+      "text": "### Immediate Corrective Actions\n\n- Owner: Naomi Price\n- Related NCR: NCR-25-0523\n- Objective: Prevent release of any lot under unresolved inspection hold\n\nImmediate actions implemented:\n\n1. Require dual release approval from quality and operations for customer-controlled lots.\n2. Lock shipment release in the ERP when a nonconformance or external hold exists.\n3. Require dock supervisors to retain the final release record before loading completes.",
+      "search_text": "Corrective Action Plan\nPage 1\n### Immediate Corrective Actions\n\n- Owner: Naomi Price\n- Related NCR: NCR-25-0523\n- Objective: Prevent release of any lot under unresolved inspection hold\n\nImmediate actions implemented:\n\n1. Require dual release approval from quality and operations for customer-controlled lots.\n2. Lock shipment release in the ERP when a nonconformance or external hold exists.\n3. Require dock supervisors to retain the final release record before loading completes."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "corrective-action-plan",
+      "doc_title": "Corrective Action Plan",
+      "doc_type": "corrective_action_plan",
+      "source_path": "sample-docs/forge-v-axis/corrective-action-plan.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-23",
+      "chunk_index": 2,
+      "citation_label": "Corrective Action Plan",
+      "participants": [
+        "Naomi Price",
+        "Anita Desai",
+        "Grant Holcomb",
+        "Sierra Vaughn"
+      ],
+      "tags": [
+        "capa",
+        "process-controls",
+        "audit-log",
+        "release-form"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "nonconformance-report",
+        "root-cause-memo",
+        "shipment-release-form"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "corrective-action-plan-p2",
+      "chunk_type": "page",
+      "page_number": 2,
+      "page_marker": "Page 2",
+      "line_range": null,
+      "section_title": "Evidence Review and Follow-Up | Next Steps",
+      "citation": {
+        "display_text": "Corrective Action Plan, Page 2",
+        "page_number": 2,
+        "line_range": null,
+        "section_title": "Evidence Review and Follow-Up | Next Steps"
+      },
+      "text": "### Evidence Review and Follow-Up\n\n- Preliminary audit review suggests the Shipment Release Form was printed from the system at 09:16 on 2025-05-21, after the truck had already departed.\n- Additional work is needed to determine whether the approver field existed in the system before departure or was added later to reflect an assumed verbal approval.\n- Missing voicemail and phone records remain a gap.\n\n### Next Steps\n\n- Complete user-access audit for the release form record.\n- Interview Grant Holcomb concerning any verbal direction on the morning of 2025-05-21.\n- Train dock and dispatch staff to treat inspection holds as stop-ship events unless explicitly released in writing.",
+      "search_text": "Corrective Action Plan\nPage 2\n### Evidence Review and Follow-Up\n\n- Preliminary audit review suggests the Shipment Release Form was printed from the system at 09:16 on 2025-05-21, after the truck had already departed.\n- Additional work is needed to determine whether the approver field existed in the system before departure or was added later to reflect an assumed verbal approval.\n- Missing voicemail and phone records remain a gap.\n\n### Next Steps\n\n- Complete user-access audit for the release form record.\n- Interview Grant Holcomb concerning any verbal direction on the morning of 2025-05-21.\n- Train dock and dispatch staff to treat inspection holds as stop-ship events unless explicitly released in writing."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "shipment-release-form",
+      "doc_title": "Shipment Release Form SRF-6614",
+      "doc_type": "shipment_release_form",
+      "source_path": "sample-docs/forge-v-axis/shipment-release-form.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-21",
+      "chunk_index": 1,
+      "citation_label": "Shipment Release Form",
+      "participants": [
+        "Sierra Vaughn",
+        "Grant Holcomb",
+        "Kyle Mercer"
+      ],
+      "tags": [
+        "operations",
+        "release-form",
+        "truck-6614",
+        "approval"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "bill-of-lading",
+        "deposition-sierra-vaughn",
+        "corrective-action-plan",
+        "root-cause-memo"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "shipment-release-form-p1",
+      "chunk_type": "page",
+      "page_number": 1,
+      "page_marker": "Page 1",
+      "line_range": null,
+      "section_title": "Release Record | Notes",
+      "citation": {
+        "display_text": "Shipment Release Form, Page 1",
+        "page_number": 1,
+        "line_range": null,
+        "section_title": "Release Record | Notes"
+      },
+      "text": "### Release Record\n\n- Form ID: SRF-6614\n- Lot: FC-902\n- Truck: 6614\n- Prepared By: Sierra Vaughn\n- Prepared Time: 2025-05-21 06:42\n- Requested Release Time: 2025-05-21 07:02\n- Approval Basis: Verbal operations release\n- Approver Field: Grant Holcomb\n- Print Time on Retrieved Copy: 2025-05-21 09:16\n\n### Notes\n\n- Quality hold flag was not cleared on the version later printed to the file.\n- The record does not include a handwritten signature or attached email authorization.\n- The document does not state who personally told the dock to proceed.",
+      "search_text": "Shipment Release Form SRF-6614\nPage 1\n### Release Record\n\n- Form ID: SRF-6614\n- Lot: FC-902\n- Truck: 6614\n- Prepared By: Sierra Vaughn\n- Prepared Time: 2025-05-21 06:42\n- Requested Release Time: 2025-05-21 07:02\n- Approval Basis: Verbal operations release\n- Approver Field: Grant Holcomb\n- Print Time on Retrieved Copy: 2025-05-21 09:16\n\n### Notes\n\n- Quality hold flag was not cleared on the version later printed to the file.\n- The record does not include a handwritten signature or attached email authorization.\n- The document does not state who personally told the dock to proceed."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "bill-of-lading",
+      "doc_title": "Bill of Lading for Truck 6614",
+      "doc_type": "bill_of_lading",
+      "source_path": "sample-docs/forge-v-axis/bill-of-lading.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-21",
+      "chunk_index": 1,
+      "citation_label": "Bill of Lading",
+      "participants": [
+        "Sierra Vaughn",
+        "Derek Cole"
+      ],
+      "tags": [
+        "shipping",
+        "bill-of-lading",
+        "truck-6614",
+        "departure-time"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "shipment-release-form",
+        "customer-rejection-letter",
+        "inspection-email-chain"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "bill-of-lading-p1",
+      "chunk_type": "page",
+      "page_number": 1,
+      "page_marker": "Page 1",
+      "line_range": null,
+      "section_title": "Shipment Record | Observations",
+      "citation": {
+        "display_text": "Bill of Lading, Page 1",
+        "page_number": 1,
+        "line_range": null,
+        "section_title": "Shipment Record | Observations"
+      },
+      "text": "### Shipment Record\n\n- Truck Number: 6614\n- Carrier: High Plains Logistics\n- Driver: Marco Silva\n- Shipper: ForgeLine Plant 5\n- Consignee: Meridian Mining Equipment\n- Product: industrial bearing cartridges, Lot FC-902\n- Dock Departure Time: 2025-05-21 07:08\n- Dock Sign-Off: Sierra Vaughn\n- Shipping Note: Expedite due to customer shutdown risk\n\n### Observations\n\nThe bill of lading fixes the departure time of the shipment but does not identify who approved release after the inspection hold concern.",
+      "search_text": "Bill of Lading for Truck 6614\nPage 1\n### Shipment Record\n\n- Truck Number: 6614\n- Carrier: High Plains Logistics\n- Driver: Marco Silva\n- Shipper: ForgeLine Plant 5\n- Consignee: Meridian Mining Equipment\n- Product: industrial bearing cartridges, Lot FC-902\n- Dock Departure Time: 2025-05-21 07:08\n- Dock Sign-Off: Sierra Vaughn\n- Shipping Note: Expedite due to customer shutdown risk\n\n### Observations\n\nThe bill of lading fixes the departure time of the shipment but does not identify who approved release after the inspection hold concern."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "customer-rejection-letter",
+      "doc_title": "Meridian Mining Equipment Rejection Letter",
+      "doc_type": "customer_letter",
+      "source_path": "sample-docs/forge-v-axis/customer-rejection-letter.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-26",
+      "chunk_index": 1,
+      "citation_label": "Meridian Mining Equipment Rejection Letter",
+      "participants": [
+        "Derek Cole",
+        "Naomi Price"
+      ],
+      "tags": [
+        "customer",
+        "rejection",
+        "damages",
+        "defects"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "complaint",
+        "exhibit-7-inspection-report",
+        "bill-of-lading"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "customer-rejection-letter-p1",
+      "chunk_type": "page",
+      "page_number": 1,
+      "page_marker": "Page 1",
+      "line_range": null,
+      "section_title": "Letter",
+      "citation": {
+        "display_text": "Meridian Mining Equipment Rejection Letter, Page 1",
+        "page_number": 1,
+        "line_range": null,
+        "section_title": "Letter"
+      },
+      "text": "### Letter\n\nTo: Derek Cole, ForgeLine  \nFrom: Meridian Mining Equipment, Supplier Quality  \nSubject: Rejection of Lot FC-902 Shipment\n\nMeridian Mining Equipment rejects the 2025-05-21 shipment associated with Lot FC-902. Incoming inspection identified failures tied to race pitting on sampled bearing surfaces, metallic debris in the grease pack, and preload measurements outside specification.",
+      "search_text": "Meridian Mining Equipment Rejection Letter\nPage 1\n### Letter\n\nTo: Derek Cole, ForgeLine  \nFrom: Meridian Mining Equipment, Supplier Quality  \nSubject: Rejection of Lot FC-902 Shipment\n\nMeridian Mining Equipment rejects the 2025-05-21 shipment associated with Lot FC-902. Incoming inspection identified failures tied to race pitting on sampled bearing surfaces, metallic debris in the grease pack, and preload measurements outside specification."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "customer-rejection-letter",
+      "doc_title": "Meridian Mining Equipment Rejection Letter",
+      "doc_type": "customer_letter",
+      "source_path": "sample-docs/forge-v-axis/customer-rejection-letter.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-26",
+      "chunk_index": 2,
+      "citation_label": "Meridian Mining Equipment Rejection Letter",
+      "participants": [
+        "Derek Cole",
+        "Naomi Price"
+      ],
+      "tags": [
+        "customer",
+        "rejection",
+        "damages",
+        "defects"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "complaint",
+        "exhibit-7-inspection-report",
+        "bill-of-lading"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "customer-rejection-letter-p2",
+      "chunk_type": "page",
+      "page_number": 2,
+      "page_marker": "Page 2",
+      "line_range": null,
+      "section_title": "Requested Action",
+      "citation": {
+        "display_text": "Meridian Mining Equipment Rejection Letter, Page 2",
+        "page_number": 2,
+        "line_range": null,
+        "section_title": "Requested Action"
+      },
+      "text": "### Requested Action\n\nMeridian Mining Equipment requests immediate replacement product, credit for the rejected lot, and a written explanation of how the shipment was released. Because the affected components were scheduled for an active line build, Meridian Mining Equipment also reserves the right to seek recovery of shutdown-related costs.",
+      "search_text": "Meridian Mining Equipment Rejection Letter\nPage 2\n### Requested Action\n\nMeridian Mining Equipment requests immediate replacement product, credit for the rejected lot, and a written explanation of how the shipment was released. Because the affected components were scheduled for an active line build, Meridian Mining Equipment also reserves the right to seek recovery of shutdown-related costs."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "inspection-email-chain",
+      "doc_title": "Inspection Email Chain",
+      "doc_type": "email_chain",
+      "source_path": "sample-docs/forge-v-axis/inspection-email-chain.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-21",
+      "chunk_index": 1,
+      "citation_label": "Inspection Email Chain",
+      "participants": [
+        "Derek Cole",
+        "Lucia Ramos",
+        "Anita Desai",
+        "Kyle Mercer",
+        "Grant Holcomb",
+        "Sierra Vaughn"
+      ],
+      "tags": [
+        "email",
+        "shipment",
+        "hold-notice",
+        "timeline",
+        "customer-pressure"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "exhibit-7-inspection-report",
+        "deposition-kyle-mercer",
+        "deposition-anita-desai",
+        "internal-meeting-notes"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "inspection-email-chain-p1-email-1",
+      "chunk_type": "email",
+      "page_number": 1,
+      "page_marker": "Page 1",
+      "line_range": null,
+      "section_title": "Email 1",
+      "citation": {
+        "display_text": "Inspection Email Chain, Page 1, Email 1",
+        "page_number": 1,
+        "line_range": null,
+        "section_title": "Email 1"
+      },
+      "email_number": 1,
+      "email_date": "2025-04-10 09:12",
+      "email_from": "Derek Cole",
+      "email_to": [
+        "Anita Desai",
+        "Kyle Mercer"
+      ],
+      "email_cc": [
+        "Grant Holcomb"
+      ],
+      "email_subject": "Meridian Mining Equipment requires third-party inspection before release",
+      "text": "- Date: 2025-04-10 09:12\n- From: Derek Cole\n- To: Anita Desai, Kyle Mercer\n- Cc: Grant Holcomb\n- Subject: Meridian Mining Equipment requires third-party inspection before release\n\nMeridian Mining Equipment will not accept Lot FC-902 without an independent inspection sign-off. Please make sure Axis is on site before loading starts.",
+      "search_text": "Inspection Email Chain\nEmail 1\n- Date: 2025-04-10 09:12\n- From: Derek Cole\n- To: Anita Desai, Kyle Mercer\n- Cc: Grant Holcomb\n- Subject: Meridian Mining Equipment requires third-party inspection before release\n\nMeridian Mining Equipment will not accept Lot FC-902 without an independent inspection sign-off. Please make sure Axis is on site before loading starts."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "inspection-email-chain",
+      "doc_title": "Inspection Email Chain",
+      "doc_type": "email_chain",
+      "source_path": "sample-docs/forge-v-axis/inspection-email-chain.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-21",
+      "chunk_index": 2,
+      "citation_label": "Inspection Email Chain",
+      "participants": [
+        "Derek Cole",
+        "Lucia Ramos",
+        "Anita Desai",
+        "Kyle Mercer",
+        "Grant Holcomb",
+        "Sierra Vaughn"
+      ],
+      "tags": [
+        "email",
+        "shipment",
+        "hold-notice",
+        "timeline",
+        "customer-pressure"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "exhibit-7-inspection-report",
+        "deposition-kyle-mercer",
+        "deposition-anita-desai",
+        "internal-meeting-notes"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "inspection-email-chain-p1-email-2",
+      "chunk_type": "email",
+      "page_number": 1,
+      "page_marker": "Page 1",
+      "line_range": null,
+      "section_title": "Email 2",
+      "citation": {
+        "display_text": "Inspection Email Chain, Page 1, Email 2",
+        "page_number": 1,
+        "line_range": null,
+        "section_title": "Email 2"
+      },
+      "email_number": 2,
+      "email_date": "2025-05-20 17:58",
+      "email_from": "Lucia Ramos",
+      "email_to": [
+        "Anita Desai"
+      ],
+      "email_cc": [
+        "Kyle Mercer"
+      ],
+      "email_subject": "FC-902 preliminary hold recommendation",
+      "text": "- Date: 2025-05-20 17:58\n- From: Lucia Ramos\n- To: Anita Desai\n- Cc: Kyle Mercer\n- Subject: FC-902 preliminary hold recommendation\n\nBased on today's sample I recommend that Lot FC-902 be held. The main concerns are race pitting on sampled bearing surfaces, metallic debris in the grease pack, and preload measurements outside specification. Full PDF will follow after I finish the formatted report.",
+      "search_text": "Inspection Email Chain\nEmail 2\n- Date: 2025-05-20 17:58\n- From: Lucia Ramos\n- To: Anita Desai\n- Cc: Kyle Mercer\n- Subject: FC-902 preliminary hold recommendation\n\nBased on today's sample I recommend that Lot FC-902 be held. The main concerns are race pitting on sampled bearing surfaces, metallic debris in the grease pack, and preload measurements outside specification. Full PDF will follow after I finish the formatted report."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "inspection-email-chain",
+      "doc_title": "Inspection Email Chain",
+      "doc_type": "email_chain",
+      "source_path": "sample-docs/forge-v-axis/inspection-email-chain.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-21",
+      "chunk_index": 3,
+      "citation_label": "Inspection Email Chain",
+      "participants": [
+        "Derek Cole",
+        "Lucia Ramos",
+        "Anita Desai",
+        "Kyle Mercer",
+        "Grant Holcomb",
+        "Sierra Vaughn"
+      ],
+      "tags": [
+        "email",
+        "shipment",
+        "hold-notice",
+        "timeline",
+        "customer-pressure"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "exhibit-7-inspection-report",
+        "deposition-kyle-mercer",
+        "deposition-anita-desai",
+        "internal-meeting-notes"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "inspection-email-chain-p2-email-3",
+      "chunk_type": "email",
+      "page_number": 2,
+      "page_marker": "Page 2",
+      "line_range": null,
+      "section_title": "Email 3",
+      "citation": {
+        "display_text": "Inspection Email Chain, Page 2, Email 3",
+        "page_number": 2,
+        "line_range": null,
+        "section_title": "Email 3"
+      },
+      "email_number": 3,
+      "email_date": "2025-05-20 18:11",
+      "email_from": "Anita Desai",
+      "email_to": [
+        "Kyle Mercer"
+      ],
+      "email_cc": [
+        "Grant Holcomb"
+      ],
+      "email_subject": "Axis hold summary - do not ship pending review",
+      "text": "- Date: 2025-05-20 18:11\n- From: Anita Desai\n- To: Kyle Mercer\n- Cc: Grant Holcomb\n- Subject: Axis hold summary - do not ship pending review\n\nKyle, Lucia says the lot is on hold and should not move until quality and operations review the write-up. I do not have the final PDF attached yet, but treat this as a stop-ship message for now.",
+      "search_text": "Inspection Email Chain\nEmail 3\n- Date: 2025-05-20 18:11\n- From: Anita Desai\n- To: Kyle Mercer\n- Cc: Grant Holcomb\n- Subject: Axis hold summary - do not ship pending review\n\nKyle, Lucia says the lot is on hold and should not move until quality and operations review the write-up. I do not have the final PDF attached yet, but treat this as a stop-ship message for now."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "inspection-email-chain",
+      "doc_title": "Inspection Email Chain",
+      "doc_type": "email_chain",
+      "source_path": "sample-docs/forge-v-axis/inspection-email-chain.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-21",
+      "chunk_index": 4,
+      "citation_label": "Inspection Email Chain",
+      "participants": [
+        "Derek Cole",
+        "Lucia Ramos",
+        "Anita Desai",
+        "Kyle Mercer",
+        "Grant Holcomb",
+        "Sierra Vaughn"
+      ],
+      "tags": [
+        "email",
+        "shipment",
+        "hold-notice",
+        "timeline",
+        "customer-pressure"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "exhibit-7-inspection-report",
+        "deposition-kyle-mercer",
+        "deposition-anita-desai",
+        "internal-meeting-notes"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "inspection-email-chain-p2-email-4",
+      "chunk_type": "email",
+      "page_number": 2,
+      "page_marker": "Page 2",
+      "line_range": null,
+      "section_title": "Email 4",
+      "citation": {
+        "display_text": "Inspection Email Chain, Page 2, Email 4",
+        "page_number": 2,
+        "line_range": null,
+        "section_title": "Email 4"
+      },
+      "email_number": 4,
+      "email_date": "2025-05-20 19:14",
+      "email_from": "Derek Cole",
+      "email_to": [
+        "Grant Holcomb",
+        "Anita Desai",
+        "Kyle Mercer"
+      ],
+      "email_cc": [
+        "Sierra Vaughn"
+      ],
+      "email_subject": "Meridian Mining Equipment line will slip if we miss tomorrow morning",
+      "text": "- Date: 2025-05-20 19:14\n- From: Derek Cole\n- To: Grant Holcomb, Anita Desai, Kyle Mercer\n- Cc: Sierra Vaughn\n- Subject: Meridian Mining Equipment line will slip if we miss tomorrow morning\n\nMeridian Mining warned that an equipment build would stop without the scheduled delivery.",
+      "search_text": "Inspection Email Chain\nEmail 4\n- Date: 2025-05-20 19:14\n- From: Derek Cole\n- To: Grant Holcomb, Anita Desai, Kyle Mercer\n- Cc: Sierra Vaughn\n- Subject: Meridian Mining Equipment line will slip if we miss tomorrow morning\n\nMeridian Mining warned that an equipment build would stop without the scheduled delivery."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "inspection-email-chain",
+      "doc_title": "Inspection Email Chain",
+      "doc_type": "email_chain",
+      "source_path": "sample-docs/forge-v-axis/inspection-email-chain.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-21",
+      "chunk_index": 5,
+      "citation_label": "Inspection Email Chain",
+      "participants": [
+        "Derek Cole",
+        "Lucia Ramos",
+        "Anita Desai",
+        "Kyle Mercer",
+        "Grant Holcomb",
+        "Sierra Vaughn"
+      ],
+      "tags": [
+        "email",
+        "shipment",
+        "hold-notice",
+        "timeline",
+        "customer-pressure"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "exhibit-7-inspection-report",
+        "deposition-kyle-mercer",
+        "deposition-anita-desai",
+        "internal-meeting-notes"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "inspection-email-chain-p3-email-5",
+      "chunk_type": "email",
+      "page_number": 3,
+      "page_marker": "Page 3",
+      "line_range": null,
+      "section_title": "Email 5",
+      "citation": {
+        "display_text": "Inspection Email Chain, Page 3, Email 5",
+        "page_number": 3,
+        "line_range": null,
+        "section_title": "Email 5"
+      },
+      "email_number": 5,
+      "email_date": "2025-05-21 00:14",
+      "email_from": "Anita Desai",
+      "email_to": [
+        "Kyle Mercer",
+        "Grant Holcomb",
+        "Sierra Vaughn"
+      ],
+      "email_cc": [
+        "Derek Cole"
+      ],
+      "email_subject": "Exhibit 7 PDF attached",
+      "text": "- Date: 2025-05-21 00:14\n- From: Anita Desai\n- To: Kyle Mercer, Grant Holcomb, Sierra Vaughn\n- Cc: Derek Cole\n- Subject: Exhibit 7 PDF attached\n\nAttached is the finished Axis report for FC-902. The written recommendation says HOLD / DO NOT SHIP pending quality and operations review. I am attaching this now because the formatted PDF is finally complete.",
+      "search_text": "Inspection Email Chain\nEmail 5\n- Date: 2025-05-21 00:14\n- From: Anita Desai\n- To: Kyle Mercer, Grant Holcomb, Sierra Vaughn\n- Cc: Derek Cole\n- Subject: Exhibit 7 PDF attached\n\nAttached is the finished Axis report for FC-902. The written recommendation says HOLD / DO NOT SHIP pending quality and operations review. I am attaching this now because the formatted PDF is finally complete."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "inspection-email-chain",
+      "doc_title": "Inspection Email Chain",
+      "doc_type": "email_chain",
+      "source_path": "sample-docs/forge-v-axis/inspection-email-chain.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-21",
+      "chunk_index": 6,
+      "citation_label": "Inspection Email Chain",
+      "participants": [
+        "Derek Cole",
+        "Lucia Ramos",
+        "Anita Desai",
+        "Kyle Mercer",
+        "Grant Holcomb",
+        "Sierra Vaughn"
+      ],
+      "tags": [
+        "email",
+        "shipment",
+        "hold-notice",
+        "timeline",
+        "customer-pressure"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "exhibit-7-inspection-report",
+        "deposition-kyle-mercer",
+        "deposition-anita-desai",
+        "internal-meeting-notes"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "inspection-email-chain-p3-email-6",
+      "chunk_type": "email",
+      "page_number": 3,
+      "page_marker": "Page 3",
+      "line_range": null,
+      "section_title": "Email 6",
+      "citation": {
+        "display_text": "Inspection Email Chain, Page 3, Email 6",
+        "page_number": 3,
+        "line_range": null,
+        "section_title": "Email 6"
+      },
+      "email_number": 6,
+      "email_date": "2025-05-21 06:18",
+      "email_from": "Sierra Vaughn",
+      "email_to": [
+        "Kyle Mercer",
+        "Grant Holcomb",
+        "Anita Desai"
+      ],
+      "email_cc": [],
+      "email_subject": "Truck 6614 at the dock - hold or roll?",
+      "text": "- Date: 2025-05-21 06:18\n- From: Sierra Vaughn\n- To: Kyle Mercer, Grant Holcomb, Anita Desai\n- Cc:\n- Subject: Truck 6614 at the dock - hold or roll?\n\nThe truck is staged and dispatch wants an answer. I know there was a quality issue last night. Please confirm whether this truck is staying parked or whether operations wants it moving.",
+      "search_text": "Inspection Email Chain\nEmail 6\n- Date: 2025-05-21 06:18\n- From: Sierra Vaughn\n- To: Kyle Mercer, Grant Holcomb, Anita Desai\n- Cc:\n- Subject: Truck 6614 at the dock - hold or roll?\n\nThe truck is staged and dispatch wants an answer. I know there was a quality issue last night. Please confirm whether this truck is staying parked or whether operations wants it moving."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "inspection-email-chain",
+      "doc_title": "Inspection Email Chain",
+      "doc_type": "email_chain",
+      "source_path": "sample-docs/forge-v-axis/inspection-email-chain.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-21",
+      "chunk_index": 7,
+      "citation_label": "Inspection Email Chain",
+      "participants": [
+        "Derek Cole",
+        "Lucia Ramos",
+        "Anita Desai",
+        "Kyle Mercer",
+        "Grant Holcomb",
+        "Sierra Vaughn"
+      ],
+      "tags": [
+        "email",
+        "shipment",
+        "hold-notice",
+        "timeline",
+        "customer-pressure"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "exhibit-7-inspection-report",
+        "deposition-kyle-mercer",
+        "deposition-anita-desai",
+        "internal-meeting-notes"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "inspection-email-chain-p4-email-7",
+      "chunk_type": "email",
+      "page_number": 4,
+      "page_marker": "Page 4",
+      "line_range": null,
+      "section_title": "Email 7",
+      "citation": {
+        "display_text": "Inspection Email Chain, Page 4, Email 7",
+        "page_number": 4,
+        "line_range": null,
+        "section_title": "Email 7"
+      },
+      "email_number": 7,
+      "email_date": "2025-05-21 06:27",
+      "email_from": "Kyle Mercer",
+      "email_to": [
+        "Sierra Vaughn",
+        "Anita Desai",
+        "Grant Holcomb"
+      ],
+      "email_cc": [],
+      "email_subject": "Re: Truck 6614 at the dock - hold or roll?",
+      "text": "- Date: 2025-05-21 06:27\n- From: Kyle Mercer\n- To: Sierra Vaughn, Anita Desai, Grant Holcomb\n- Cc:\n- Subject: Re: Truck 6614 at the dock - hold or roll?\n\nKeep the truck parked until quality or ops clears the release. I am not authorizing the load to leave on my own.",
+      "search_text": "Inspection Email Chain\nEmail 7\n- Date: 2025-05-21 06:27\n- From: Kyle Mercer\n- To: Sierra Vaughn, Anita Desai, Grant Holcomb\n- Cc:\n- Subject: Re: Truck 6614 at the dock - hold or roll?\n\nKeep the truck parked until quality or ops clears the release. I am not authorizing the load to leave on my own."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "inspection-email-chain",
+      "doc_title": "Inspection Email Chain",
+      "doc_type": "email_chain",
+      "source_path": "sample-docs/forge-v-axis/inspection-email-chain.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-21",
+      "chunk_index": 8,
+      "citation_label": "Inspection Email Chain",
+      "participants": [
+        "Derek Cole",
+        "Lucia Ramos",
+        "Anita Desai",
+        "Kyle Mercer",
+        "Grant Holcomb",
+        "Sierra Vaughn"
+      ],
+      "tags": [
+        "email",
+        "shipment",
+        "hold-notice",
+        "timeline",
+        "customer-pressure"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "exhibit-7-inspection-report",
+        "deposition-kyle-mercer",
+        "deposition-anita-desai",
+        "internal-meeting-notes"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "inspection-email-chain-p4-email-8",
+      "chunk_type": "email",
+      "page_number": 4,
+      "page_marker": "Page 4",
+      "line_range": null,
+      "section_title": "Email 8",
+      "citation": {
+        "display_text": "Inspection Email Chain, Page 4, Email 8",
+        "page_number": 4,
+        "line_range": null,
+        "section_title": "Email 8"
+      },
+      "email_number": 8,
+      "email_date": "2025-05-21 06:39",
+      "email_from": "Derek Cole",
+      "email_to": [
+        "Grant Holcomb",
+        "Kyle Mercer",
+        "Anita Desai"
+      ],
+      "email_cc": [
+        "Sierra Vaughn"
+      ],
+      "email_subject": "Need decision in next 15 minutes",
+      "text": "- Date: 2025-05-21 06:39\n- From: Derek Cole\n- To: Grant Holcomb, Kyle Mercer, Anita Desai\n- Cc: Sierra Vaughn\n- Subject: Need decision in next 15 minutes\n\nMeridian Mining warned that an equipment build would stop without the scheduled delivery.",
+      "search_text": "Inspection Email Chain\nEmail 8\n- Date: 2025-05-21 06:39\n- From: Derek Cole\n- To: Grant Holcomb, Kyle Mercer, Anita Desai\n- Cc: Sierra Vaughn\n- Subject: Need decision in next 15 minutes\n\nMeridian Mining warned that an equipment build would stop without the scheduled delivery."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "inspection-email-chain",
+      "doc_title": "Inspection Email Chain",
+      "doc_type": "email_chain",
+      "source_path": "sample-docs/forge-v-axis/inspection-email-chain.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-21",
+      "chunk_index": 9,
+      "citation_label": "Inspection Email Chain",
+      "participants": [
+        "Derek Cole",
+        "Lucia Ramos",
+        "Anita Desai",
+        "Kyle Mercer",
+        "Grant Holcomb",
+        "Sierra Vaughn"
+      ],
+      "tags": [
+        "email",
+        "shipment",
+        "hold-notice",
+        "timeline",
+        "customer-pressure"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "exhibit-7-inspection-report",
+        "deposition-kyle-mercer",
+        "deposition-anita-desai",
+        "internal-meeting-notes"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "inspection-email-chain-p5-email-9",
+      "chunk_type": "email",
+      "page_number": 5,
+      "page_marker": "Page 5",
+      "line_range": null,
+      "section_title": "Email 9",
+      "citation": {
+        "display_text": "Inspection Email Chain, Page 5, Email 9",
+        "page_number": 5,
+        "line_range": null,
+        "section_title": "Email 9"
+      },
+      "email_number": 9,
+      "email_date": "2025-05-21 06:51",
+      "email_from": "Anita Desai",
+      "email_to": [
+        "Grant Holcomb",
+        "Kyle Mercer",
+        "Sierra Vaughn"
+      ],
+      "email_cc": [],
+      "email_subject": "Quality is not releasing Lot FC-902",
+      "text": "- Date: 2025-05-21 06:51\n- From: Anita Desai\n- To: Grant Holcomb, Kyle Mercer, Sierra Vaughn\n- Cc:\n- Subject: Quality is not releasing Lot FC-902\n\nFor clarity, quality is not releasing Lot FC-902 at this time. If the truck moves, it will not be because I cleared the lot.",
+      "search_text": "Inspection Email Chain\nEmail 9\n- Date: 2025-05-21 06:51\n- From: Anita Desai\n- To: Grant Holcomb, Kyle Mercer, Sierra Vaughn\n- Cc:\n- Subject: Quality is not releasing Lot FC-902\n\nFor clarity, quality is not releasing Lot FC-902 at this time. If the truck moves, it will not be because I cleared the lot."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "internal-meeting-notes",
+      "doc_title": "Internal Meeting Notes",
+      "doc_type": "internal_meeting_notes",
+      "source_path": "sample-docs/forge-v-axis/internal-meeting-notes.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-23",
+      "chunk_index": 1,
+      "citation_label": "Internal Meeting Notes",
+      "participants": [
+        "Anita Desai",
+        "Kyle Mercer",
+        "Grant Holcomb",
+        "Sierra Vaughn",
+        "Naomi Price",
+        "Derek Cole"
+      ],
+      "tags": [
+        "internal-notes",
+        "root-cause",
+        "open-issues",
+        "shipment-release"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "inspection-email-chain",
+        "deposition-sierra-vaughn",
+        "nonconformance-report",
+        "root-cause-memo"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "internal-meeting-notes-p1",
+      "chunk_type": "page",
+      "page_number": 1,
+      "page_marker": "Page 1",
+      "line_range": null,
+      "section_title": "Attendees | Discussion Notes",
+      "citation": {
+        "display_text": "Internal Meeting Notes, Page 1",
+        "page_number": 1,
+        "line_range": null,
+        "section_title": "Attendees | Discussion Notes"
+      },
+      "text": "### Attendees\n\n- Anita Desai\n- Kyle Mercer\n- Sierra Vaughn\n- Naomi Price\n- Derek Cole\n- Grant Holcomb joined late by phone\n\n### Discussion Notes\n\n- Anita Desai said Axis gave a verbal hold on 2025-05-20 and that no quality release was given on 2025-05-21.\n- Kyle Mercer said hold language tied to Exhibit 7 was seen before the truck left and that Sierra was told to keep the truck parked unless higher authority cleared it.\n- Sierra Vaughn said no clean written release was received and that the dock relied on a release printout listing Grant Holcomb as the operations approver, dispatch pressure, and the assumption that operations had made a call.\n- Derek Cole acknowledged repeated customer pressure and said Meridian Mining Equipment was threatening a line disruption.",
+      "search_text": "Internal Meeting Notes\nPage 1\n### Attendees\n\n- Anita Desai\n- Kyle Mercer\n- Sierra Vaughn\n- Naomi Price\n- Derek Cole\n- Grant Holcomb joined late by phone\n\n### Discussion Notes\n\n- Anita Desai said Axis gave a verbal hold on 2025-05-20 and that no quality release was given on 2025-05-21.\n- Kyle Mercer said hold language tied to Exhibit 7 was seen before the truck left and that Sierra was told to keep the truck parked unless higher authority cleared it.\n- Sierra Vaughn said no clean written release was received and that the dock relied on a release printout listing Grant Holcomb as the operations approver, dispatch pressure, and the assumption that operations had made a call.\n- Derek Cole acknowledged repeated customer pressure and said Meridian Mining Equipment was threatening a line disruption."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "internal-meeting-notes",
+      "doc_title": "Internal Meeting Notes",
+      "doc_type": "internal_meeting_notes",
+      "source_path": "sample-docs/forge-v-axis/internal-meeting-notes.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-23",
+      "chunk_index": 2,
+      "citation_label": "Internal Meeting Notes",
+      "participants": [
+        "Anita Desai",
+        "Kyle Mercer",
+        "Grant Holcomb",
+        "Sierra Vaughn",
+        "Naomi Price",
+        "Derek Cole"
+      ],
+      "tags": [
+        "internal-notes",
+        "root-cause",
+        "open-issues",
+        "shipment-release"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "inspection-email-chain",
+        "deposition-sierra-vaughn",
+        "nonconformance-report",
+        "root-cause-memo"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "internal-meeting-notes-p2",
+      "chunk_type": "page",
+      "page_number": 2,
+      "page_marker": "Page 2",
+      "line_range": null,
+      "section_title": "Open Issues | Action Items",
+      "citation": {
+        "display_text": "Internal Meeting Notes, Page 2",
+        "page_number": 2,
+        "line_range": null,
+        "section_title": "Open Issues | Action Items"
+      },
+      "text": "### Open Issues\n\n- Final release decision remains unclear.\n- Unclear whether Grant Holcomb actually gave a verbal release or whether staff inferred approval from silence and customer pressure.\n- Unclear whether the release-form approver field was entered before or after Truck 6614 departed.\n- Additional review is needed before anyone can say who gave final approval to ship.\n\n### Action Items\n\n1. Preserve system audit logs for the release record.\n2. Confirm whether any voicemail or text messages from Grant Holcomb still exist.\n3. Prepare contradiction chart comparing discovery responses with later witness testimony.",
+      "search_text": "Internal Meeting Notes\nPage 2\n### Open Issues\n\n- Final release decision remains unclear.\n- Unclear whether Grant Holcomb actually gave a verbal release or whether staff inferred approval from silence and customer pressure.\n- Unclear whether the release-form approver field was entered before or after Truck 6614 departed.\n- Additional review is needed before anyone can say who gave final approval to ship.\n\n### Action Items\n\n1. Preserve system audit logs for the release record.\n2. Confirm whether any voicemail or text messages from Grant Holcomb still exist.\n3. Prepare contradiction chart comparing discovery responses with later witness testimony."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "root-cause-memo",
+      "doc_title": "Root Cause Memo",
+      "doc_type": "internal_root_cause_memo",
+      "source_path": "sample-docs/forge-v-axis/root-cause-memo.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-26",
+      "chunk_index": 1,
+      "citation_label": "Root Cause Memo",
+      "participants": [
+        "Naomi Price",
+        "Anita Desai",
+        "Grant Holcomb",
+        "Kyle Mercer",
+        "Sierra Vaughn"
+      ],
+      "tags": [
+        "root-cause",
+        "analysis",
+        "timeline",
+        "approval-gap",
+        "deposition-topics"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "internal-meeting-notes",
+        "corrective-action-plan",
+        "shipment-release-form",
+        "inspection-email-chain"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "root-cause-memo-p1",
+      "chunk_type": "page",
+      "page_number": 1,
+      "page_marker": "Page 1",
+      "line_range": null,
+      "section_title": "Executive Summary | Preliminary Root Causes",
+      "citation": {
+        "display_text": "Root Cause Memo, Page 1",
+        "page_number": 1,
+        "line_range": null,
+        "section_title": "Executive Summary | Preliminary Root Causes"
+      },
+      "text": "### Executive Summary\n\nThe available record shows that Lot FC-902 should have remained on hold after the 2025-05-20 inspection. Even so, Truck 6614 left the dock on 2025-05-21. The strongest written evidence of the inspection failure is Exhibit 7, supported by the email chain and the later customer rejection.\n\n### Preliminary Root Causes\n\n1. Customer pressure compressed the decision window.\n2. Quality and operations did not share a single documented release workflow.\n3. Dock staff relied on assumptions and incomplete records rather than a final written release.",
+      "search_text": "Root Cause Memo\nPage 1\n### Executive Summary\n\nThe available record shows that Lot FC-902 should have remained on hold after the 2025-05-20 inspection. Even so, Truck 6614 left the dock on 2025-05-21. The strongest written evidence of the inspection failure is Exhibit 7, supported by the email chain and the later customer rejection.\n\n### Preliminary Root Causes\n\n1. Customer pressure compressed the decision window.\n2. Quality and operations did not share a single documented release workflow.\n3. Dock staff relied on assumptions and incomplete records rather than a final written release."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "root-cause-memo",
+      "doc_title": "Root Cause Memo",
+      "doc_type": "internal_root_cause_memo",
+      "source_path": "sample-docs/forge-v-axis/root-cause-memo.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-26",
+      "chunk_index": 2,
+      "citation_label": "Root Cause Memo",
+      "participants": [
+        "Naomi Price",
+        "Anita Desai",
+        "Grant Holcomb",
+        "Kyle Mercer",
+        "Sierra Vaughn"
+      ],
+      "tags": [
+        "root-cause",
+        "analysis",
+        "timeline",
+        "approval-gap",
+        "deposition-topics"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "internal-meeting-notes",
+        "corrective-action-plan",
+        "shipment-release-form",
+        "inspection-email-chain"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "root-cause-memo-p2",
+      "chunk_type": "page",
+      "page_number": 2,
+      "page_marker": "Page 2",
+      "line_range": null,
+      "section_title": "Evidence Comparison",
+      "citation": {
+        "display_text": "Root Cause Memo, Page 2",
+        "page_number": 2,
+        "line_range": null,
+        "section_title": "Evidence Comparison"
+      },
+      "text": "### Evidence Comparison\n\n- Exhibit 7 and the Nonconformance Report describe the defects as serious enough to justify a hold.\n- The complaint emphasizes delayed communication by Axis, while the answer argues ForgeLine knew enough on 2025-05-20 to stop the shipment.\n- The interrogatory responses say Kyle Mercer did not review Exhibit 7 before departure, but Kyle later testified that the first page was seen on the evening of 2025-05-20.\n- Sierra Vaughn recalls seeing a release printout listing Grant Holcomb as the operations approver, while the Corrective Action Plan notes a later print time and unresolved audit questions.",
+      "search_text": "Root Cause Memo\nPage 2\n### Evidence Comparison\n\n- Exhibit 7 and the Nonconformance Report describe the defects as serious enough to justify a hold.\n- The complaint emphasizes delayed communication by Axis, while the answer argues ForgeLine knew enough on 2025-05-20 to stop the shipment.\n- The interrogatory responses say Kyle Mercer did not review Exhibit 7 before departure, but Kyle later testified that the first page was seen on the evening of 2025-05-20.\n- Sierra Vaughn recalls seeing a release printout listing Grant Holcomb as the operations approver, while the Corrective Action Plan notes a later print time and unresolved audit questions."
+    },
+    {
+      "matter_id": "forge-v-axis",
+      "matter_name": "ForgeLine Components v. Axis Industrial Audits",
+      "doc_id": "root-cause-memo",
+      "doc_title": "Root Cause Memo",
+      "doc_type": "internal_root_cause_memo",
+      "source_path": "sample-docs/forge-v-axis/root-cause-memo.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-26",
+      "chunk_index": 3,
+      "citation_label": "Root Cause Memo",
+      "participants": [
+        "Naomi Price",
+        "Anita Desai",
+        "Grant Holcomb",
+        "Kyle Mercer",
+        "Sierra Vaughn"
+      ],
+      "tags": [
+        "root-cause",
+        "analysis",
+        "timeline",
+        "approval-gap",
+        "deposition-topics"
+      ],
+      "access_scope": {
+        "matter_id": "forge-v-axis",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "internal-meeting-notes",
+        "corrective-action-plan",
+        "shipment-release-form",
+        "inspection-email-chain"
+      ],
+      "exhibit_number": null,
+      "chunk_id": "root-cause-memo-p3",
+      "chunk_type": "page",
+      "page_number": 3,
+      "page_marker": "Page 3",
+      "line_range": null,
+      "section_title": "Deposition Prep Topics and Gaps | Unresolved Conclusion",
+      "citation": {
+        "display_text": "Root Cause Memo, Page 3",
+        "page_number": 3,
+        "line_range": null,
+        "section_title": "Deposition Prep Topics and Gaps | Unresolved Conclusion"
+      },
+      "text": "### Deposition Prep Topics and Gaps\n\n- Pin down whether Anita Desai's early evening email was treated as a true stop-ship direction.\n- Determine whether Grant Holcomb ever gave an actual verbal release or whether others inferred approval.\n- Determine whether the approver field on the Shipment Release Form was entered live or backfilled later.\n- Ask why the dock was allowed to continue staging after repeated hold references.\n\n### Unresolved Conclusion\n\nThe record still does not identify the final approving person with confidence. Any assistant answer on that point should abstain rather than guess.",
+      "search_text": "Root Cause Memo\nPage 3\n### Deposition Prep Topics and Gaps\n\n- Pin down whether Anita Desai's early evening email was treated as a true stop-ship direction.\n- Determine whether Grant Holcomb ever gave an actual verbal release or whether others inferred approval.\n- Determine whether the approver field on the Shipment Release Form was entered live or backfilled later.\n- Ask why the dock was allowed to continue staging after repeated hold references.\n\n### Unresolved Conclusion\n\nThe record still does not identify the final approving person with confidence. Any assistant answer on that point should abstain rather than guess."
+    }
+  ]
+}

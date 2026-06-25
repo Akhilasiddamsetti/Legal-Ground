@@ -1,0 +1,642 @@
+{
+  "matter_id": "valewood-v-triton",
+  "matter_name": "Valewood Industrial Products v. Triton Field Inspections",
+  "documents": [
+    {
+      "doc_id": "complaint",
+      "filename": "complaint.md",
+      "title": "Complaint",
+      "doc_type": "complaint",
+      "source_path": "sample-docs/valewood-v-triton/complaint.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-04-02",
+      "participants": [
+        "Amelia Foster",
+        "Rohan Iyer",
+        "Caleb Marsh",
+        "Nina Park",
+        "Seth Dillon",
+        "Marisol Vega",
+        "Paige Lambert"
+      ],
+      "tags": [
+        "pleading",
+        "timeline",
+        "shipment",
+        "exhibit-14",
+        "customer-rejection"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Complaint",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "valewood-v-triton",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "exhibit-14-inspection-report",
+        "inspection-email-chain",
+        "deposition-amelia-foster",
+        "customer-rejection-letter"
+      ],
+      "summary": "Valewood alleges Triton's inspection and communication failures allowed Lot VI-267 to ship despite a hold recommendation."
+    },
+    {
+      "doc_id": "answer-and-affirmative-defenses",
+      "filename": "answer-and-affirmative-defenses.md",
+      "title": "Answer and Affirmative Defenses",
+      "doc_type": "answer_pleading",
+      "source_path": "sample-docs/valewood-v-triton/answer-and-affirmative-defenses.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-01",
+      "participants": [
+        "Rohan Iyer",
+        "Caleb Marsh",
+        "Marisol Vega",
+        "Amelia Foster"
+      ],
+      "tags": [
+        "pleading",
+        "defenses",
+        "knowledge",
+        "causation"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Answer and Affirmative Defenses",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "valewood-v-triton",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "complaint",
+        "exhibit-14-inspection-report",
+        "inspection-email-chain",
+        "shipment-release-form"
+      ],
+      "summary": "Triton denies liability and contends Valewood knew of the hold before shipment but still prioritized customer delivery."
+    },
+    {
+      "doc_id": "interrogatories-and-responses",
+      "filename": "interrogatories-and-responses.md",
+      "title": "Supplemental Interrogatories and Responses",
+      "doc_type": "written_discovery_responses",
+      "source_path": "sample-docs/valewood-v-triton/interrogatories-and-responses.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-09-15",
+      "participants": [
+        "Amelia Foster",
+        "Rohan Iyer",
+        "Caleb Marsh",
+        "Nina Park",
+        "Seth Dillon"
+      ],
+      "tags": [
+        "discovery",
+        "interrogatories",
+        "timeline",
+        "exhibit-14",
+        "contradiction"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Supplemental Interrogatory Responses",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "valewood-v-triton",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "deposition-amelia-foster",
+        "deposition-rohan-iyer",
+        "inspection-email-chain",
+        "exhibit-14-inspection-report"
+      ],
+      "summary": "Valewood states no management witness other than Rohan Iyer reviewed Exhibit 14 before departure and says definitive fail notice did not reach operations until after the truck rolled."
+    },
+    {
+      "doc_id": "requests-for-production-and-responses",
+      "filename": "requests-for-production-and-responses.md",
+      "title": "Requests for Production and Responses",
+      "doc_type": "written_discovery_responses",
+      "source_path": "sample-docs/valewood-v-triton/requests-for-production-and-responses.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-09-20",
+      "participants": [
+        "Rohan Iyer",
+        "Nina Park",
+        "Paige Lambert",
+        "Seth Dillon"
+      ],
+      "tags": [
+        "discovery",
+        "document-production",
+        "release-form",
+        "emails",
+        "root-cause"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Requests for Production and Responses",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "valewood-v-triton",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "shipment-release-form",
+        "bill-of-lading",
+        "root-cause-memo",
+        "inspection-email-chain"
+      ],
+      "summary": "The production responses identify the main operational documents and acknowledge gaps in preserved phone and system audit evidence."
+    },
+    {
+      "doc_id": "deposition-amelia-foster",
+      "filename": "deposition-amelia-foster.md",
+      "title": "Deposition Transcript of Amelia Foster",
+      "doc_type": "deposition_transcript_excerpt",
+      "source_path": "sample-docs/valewood-v-triton/deposition-amelia-foster.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-11-03",
+      "participants": [
+        "Amelia Foster",
+        "Rohan Iyer",
+        "Caleb Marsh",
+        "Nina Park",
+        "Marisol Vega"
+      ],
+      "tags": [
+        "deposition",
+        "witness-testimony",
+        "exhibit-14",
+        "hold-order",
+        "shipment-release"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Amelia Foster Deposition",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "valewood-v-triton",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "interrogatories-and-responses",
+        "inspection-email-chain",
+        "shipment-release-form",
+        "exhibit-14-inspection-report"
+      ],
+      "summary": "Amelia Foster says they knew of the hold on 2025-08-19, looked at the first page of Exhibit 14, and told dock staff not to release the truck without higher approval."
+    },
+    {
+      "doc_id": "deposition-rohan-iyer",
+      "filename": "deposition-rohan-iyer.md",
+      "title": "Deposition Transcript of Rohan Iyer",
+      "doc_type": "deposition_transcript_excerpt",
+      "source_path": "sample-docs/valewood-v-triton/deposition-rohan-iyer.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-11-10",
+      "participants": [
+        "Rohan Iyer",
+        "Amelia Foster",
+        "Caleb Marsh",
+        "Marisol Vega",
+        "Seth Dillon"
+      ],
+      "tags": [
+        "deposition",
+        "quality",
+        "exhibit-14",
+        "timeline",
+        "customer-pressure"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Rohan Iyer Deposition",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "valewood-v-triton",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "deposition-amelia-foster",
+        "inspection-email-chain",
+        "nonconformance-report",
+        "internal-meeting-notes"
+      ],
+      "summary": "Rohan Iyer confirms a verbal hold on 2025-08-19 but says the formal Exhibit 14 PDF was forwarded after midnight and that they never gave final release authority."
+    },
+    {
+      "doc_id": "deposition-nina-park",
+      "filename": "deposition-nina-park.md",
+      "title": "Deposition Transcript of Nina Park",
+      "doc_type": "deposition_transcript_excerpt",
+      "source_path": "sample-docs/valewood-v-triton/deposition-nina-park.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-11-18",
+      "participants": [
+        "Nina Park",
+        "Amelia Foster",
+        "Caleb Marsh",
+        "Rohan Iyer"
+      ],
+      "tags": [
+        "deposition",
+        "warehouse",
+        "shipment-release",
+        "release-form",
+        "dock-operations"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Nina Park Deposition",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "valewood-v-triton",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "shipment-release-form",
+        "bill-of-lading",
+        "inspection-email-chain",
+        "deposition-amelia-foster"
+      ],
+      "summary": "Nina Park describes an unclear dock decision chain, remembers seeing a release printout with Caleb Marsh listed in the approver field, and says no one gave a clean documented release."
+    },
+    {
+      "doc_id": "exhibit-14-inspection-report",
+      "filename": "exhibit-14-inspection-report.md",
+      "title": "Exhibit 14 Inspection Report",
+      "doc_type": "inspection_report",
+      "source_path": "sample-docs/valewood-v-triton/exhibit-14-inspection-report.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-08-19",
+      "participants": [
+        "Marisol Vega",
+        "Rohan Iyer",
+        "Amelia Foster"
+      ],
+      "tags": [
+        "inspection",
+        "exhibit-14",
+        "fail-hold",
+        "quality",
+        "findings"
+      ],
+      "exhibit_number": 14,
+      "citation_label": "Exhibit 14 Inspection Report",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "valewood-v-triton",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "nonconformance-report",
+        "inspection-email-chain",
+        "deposition-amelia-foster",
+        "complaint"
+      ],
+      "summary": "Triton's report states Lot VI-267 failed inspection, should be held, and should not ship pending quality and operations review."
+    },
+    {
+      "doc_id": "nonconformance-report",
+      "filename": "nonconformance-report.md",
+      "title": "Nonconformance Report NCR-25-0822",
+      "doc_type": "quality_nonconformance_report",
+      "source_path": "sample-docs/valewood-v-triton/nonconformance-report.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-08-20",
+      "participants": [
+        "Rohan Iyer",
+        "Paige Lambert",
+        "Amelia Foster",
+        "Nina Park"
+      ],
+      "tags": [
+        "quality",
+        "ncr",
+        "containment",
+        "hold",
+        "open-issues"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Nonconformance Report",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "valewood-v-triton",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "exhibit-14-inspection-report",
+        "corrective-action-plan",
+        "shipment-release-form",
+        "internal-meeting-notes"
+      ],
+      "summary": "The NCR records the failed lot, notes that Truck 7055 left despite a hold, and lists unresolved questions about the release path."
+    },
+    {
+      "doc_id": "corrective-action-plan",
+      "filename": "corrective-action-plan.md",
+      "title": "Corrective Action Plan",
+      "doc_type": "corrective_action_plan",
+      "source_path": "sample-docs/valewood-v-triton/corrective-action-plan.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-08-22",
+      "participants": [
+        "Paige Lambert",
+        "Rohan Iyer",
+        "Caleb Marsh",
+        "Nina Park"
+      ],
+      "tags": [
+        "capa",
+        "process-controls",
+        "audit-log",
+        "release-form"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Corrective Action Plan",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "valewood-v-triton",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "nonconformance-report",
+        "root-cause-memo",
+        "shipment-release-form"
+      ],
+      "summary": "The CAPA proposes system and training fixes and notes that the audit trail suggests release-form edits after truck departure."
+    },
+    {
+      "doc_id": "shipment-release-form",
+      "filename": "shipment-release-form.md",
+      "title": "Shipment Release Form SRF-7055",
+      "doc_type": "shipment_release_form",
+      "source_path": "sample-docs/valewood-v-triton/shipment-release-form.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-08-20",
+      "participants": [
+        "Nina Park",
+        "Caleb Marsh",
+        "Amelia Foster"
+      ],
+      "tags": [
+        "operations",
+        "release-form",
+        "truck-7055",
+        "approval"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Shipment Release Form",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "valewood-v-triton",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "bill-of-lading",
+        "deposition-nina-park",
+        "corrective-action-plan",
+        "root-cause-memo"
+      ],
+      "summary": "The release form shows a verbal operations release tied to Caleb Marsh, but its timing and audit history are disputed."
+    },
+    {
+      "doc_id": "bill-of-lading",
+      "filename": "bill-of-lading.md",
+      "title": "Bill of Lading for Truck 7055",
+      "doc_type": "bill_of_lading",
+      "source_path": "sample-docs/valewood-v-triton/bill-of-lading.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-08-20",
+      "participants": [
+        "Nina Park",
+        "Seth Dillon"
+      ],
+      "tags": [
+        "shipping",
+        "bill-of-lading",
+        "truck-7055",
+        "departure-time"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Bill of Lading",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "valewood-v-triton",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "shipment-release-form",
+        "customer-rejection-letter",
+        "inspection-email-chain"
+      ],
+      "summary": "The bill of lading fixes the departure time of Truck 7055 and shows the shipment proceeded under expedite instructions."
+    },
+    {
+      "doc_id": "customer-rejection-letter",
+      "filename": "customer-rejection-letter.md",
+      "title": "Keystone Energy Controls Rejection Letter",
+      "doc_type": "customer_letter",
+      "source_path": "sample-docs/valewood-v-triton/customer-rejection-letter.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-08-25",
+      "participants": [
+        "Seth Dillon",
+        "Paige Lambert"
+      ],
+      "tags": [
+        "customer",
+        "rejection",
+        "damages",
+        "defects"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Keystone Energy Controls Rejection Letter",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "valewood-v-triton",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "complaint",
+        "exhibit-14-inspection-report",
+        "bill-of-lading"
+      ],
+      "summary": "Keystone Energy Controls reports field failures tied to Lot VI-267 and rejects the shipment."
+    },
+    {
+      "doc_id": "inspection-email-chain",
+      "filename": "inspection-email-chain.md",
+      "title": "Inspection Email Chain",
+      "doc_type": "email_chain",
+      "source_path": "sample-docs/valewood-v-triton/inspection-email-chain.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-08-20",
+      "participants": [
+        "Seth Dillon",
+        "Marisol Vega",
+        "Rohan Iyer",
+        "Amelia Foster",
+        "Caleb Marsh",
+        "Nina Park"
+      ],
+      "tags": [
+        "email",
+        "shipment",
+        "hold-notice",
+        "timeline",
+        "customer-pressure"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Inspection Email Chain",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "valewood-v-triton",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "exhibit-14-inspection-report",
+        "deposition-amelia-foster",
+        "deposition-rohan-iyer",
+        "internal-meeting-notes"
+      ],
+      "summary": "The email chain captures customer pressure, verbal and written hold notices, and a disputed early-morning decision path for Truck 7055."
+    },
+    {
+      "doc_id": "internal-meeting-notes",
+      "filename": "internal-meeting-notes.md",
+      "title": "Internal Meeting Notes",
+      "doc_type": "internal_meeting_notes",
+      "source_path": "sample-docs/valewood-v-triton/internal-meeting-notes.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-08-22",
+      "participants": [
+        "Rohan Iyer",
+        "Amelia Foster",
+        "Caleb Marsh",
+        "Nina Park",
+        "Paige Lambert",
+        "Seth Dillon"
+      ],
+      "tags": [
+        "internal-notes",
+        "root-cause",
+        "open-issues",
+        "shipment-release"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Internal Meeting Notes",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "valewood-v-triton",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "inspection-email-chain",
+        "deposition-nina-park",
+        "nonconformance-report",
+        "root-cause-memo"
+      ],
+      "summary": "Internal follow-up notes capture conflicting witness recollections and leave the final release decision unresolved."
+    },
+    {
+      "doc_id": "root-cause-memo",
+      "filename": "root-cause-memo.md",
+      "title": "Root Cause Memo",
+      "doc_type": "internal_root_cause_memo",
+      "source_path": "sample-docs/valewood-v-triton/root-cause-memo.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-08-25",
+      "participants": [
+        "Paige Lambert",
+        "Rohan Iyer",
+        "Caleb Marsh",
+        "Amelia Foster",
+        "Nina Park"
+      ],
+      "tags": [
+        "root-cause",
+        "analysis",
+        "timeline",
+        "approval-gap",
+        "deposition-topics"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Root Cause Memo",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "valewood-v-triton",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "internal-meeting-notes",
+        "corrective-action-plan",
+        "shipment-release-form",
+        "inspection-email-chain"
+      ],
+      "summary": "The memo synthesizes the evidence, flags contradictions, and identifies unresolved approval and system-audit questions for deposition prep."
+    }
+  ]
+}

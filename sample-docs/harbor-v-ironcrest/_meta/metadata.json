@@ -1,0 +1,642 @@
+{
+  "matter_id": "harbor-v-ironcrest",
+  "matter_name": "Harbor Fluid Systems v. Ironcrest Inspection Group",
+  "documents": [
+    {
+      "doc_id": "complaint",
+      "filename": "complaint.md",
+      "title": "Complaint",
+      "doc_type": "complaint",
+      "source_path": "sample-docs/harbor-v-ironcrest/complaint.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-04-02",
+      "participants": [
+        "Nora Alvarez",
+        "Simon Wu",
+        "Patrick Doyle",
+        "Janelle Brooks",
+        "Victor Han",
+        "Elise Grant",
+        "Monica Reed"
+      ],
+      "tags": [
+        "pleading",
+        "timeline",
+        "shipment",
+        "exhibit-21",
+        "customer-rejection"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Complaint",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "harbor-v-ironcrest",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "exhibit-21-inspection-report",
+        "inspection-email-chain",
+        "deposition-nora-alvarez",
+        "customer-rejection-letter"
+      ],
+      "summary": "Harbor alleges Ironcrest's inspection and communication failures allowed Lot HF-144 to ship despite a hold recommendation."
+    },
+    {
+      "doc_id": "answer-and-affirmative-defenses",
+      "filename": "answer-and-affirmative-defenses.md",
+      "title": "Answer and Affirmative Defenses",
+      "doc_type": "answer_pleading",
+      "source_path": "sample-docs/harbor-v-ironcrest/answer-and-affirmative-defenses.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-01",
+      "participants": [
+        "Simon Wu",
+        "Patrick Doyle",
+        "Elise Grant",
+        "Nora Alvarez"
+      ],
+      "tags": [
+        "pleading",
+        "defenses",
+        "knowledge",
+        "causation"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Answer and Affirmative Defenses",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "harbor-v-ironcrest",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "complaint",
+        "exhibit-21-inspection-report",
+        "inspection-email-chain",
+        "shipment-release-form"
+      ],
+      "summary": "Ironcrest denies liability and contends Harbor knew of the hold before shipment but still prioritized customer delivery."
+    },
+    {
+      "doc_id": "interrogatories-and-responses",
+      "filename": "interrogatories-and-responses.md",
+      "title": "Supplemental Interrogatories and Responses",
+      "doc_type": "written_discovery_responses",
+      "source_path": "sample-docs/harbor-v-ironcrest/interrogatories-and-responses.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-09-15",
+      "participants": [
+        "Nora Alvarez",
+        "Simon Wu",
+        "Patrick Doyle",
+        "Janelle Brooks",
+        "Victor Han"
+      ],
+      "tags": [
+        "discovery",
+        "interrogatories",
+        "timeline",
+        "exhibit-21",
+        "contradiction"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Supplemental Interrogatory Responses",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "harbor-v-ironcrest",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "deposition-nora-alvarez",
+        "deposition-simon-wu",
+        "inspection-email-chain",
+        "exhibit-21-inspection-report"
+      ],
+      "summary": "Harbor states no management witness other than Simon Wu reviewed Exhibit 21 before departure and says definitive fail notice did not reach operations until after the truck rolled."
+    },
+    {
+      "doc_id": "requests-for-production-and-responses",
+      "filename": "requests-for-production-and-responses.md",
+      "title": "Requests for Production and Responses",
+      "doc_type": "written_discovery_responses",
+      "source_path": "sample-docs/harbor-v-ironcrest/requests-for-production-and-responses.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-09-20",
+      "participants": [
+        "Simon Wu",
+        "Janelle Brooks",
+        "Monica Reed",
+        "Victor Han"
+      ],
+      "tags": [
+        "discovery",
+        "document-production",
+        "release-form",
+        "emails",
+        "root-cause"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Requests for Production and Responses",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "harbor-v-ironcrest",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "shipment-release-form",
+        "bill-of-lading",
+        "root-cause-memo",
+        "inspection-email-chain"
+      ],
+      "summary": "The production responses identify the main operational documents and acknowledge gaps in preserved phone and system audit evidence."
+    },
+    {
+      "doc_id": "deposition-nora-alvarez",
+      "filename": "deposition-nora-alvarez.md",
+      "title": "Deposition Transcript of Nora Alvarez",
+      "doc_type": "deposition_transcript_excerpt",
+      "source_path": "sample-docs/harbor-v-ironcrest/deposition-nora-alvarez.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-11-03",
+      "participants": [
+        "Nora Alvarez",
+        "Simon Wu",
+        "Patrick Doyle",
+        "Janelle Brooks",
+        "Elise Grant"
+      ],
+      "tags": [
+        "deposition",
+        "witness-testimony",
+        "exhibit-21",
+        "hold-order",
+        "shipment-release"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Nora Alvarez Deposition",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "harbor-v-ironcrest",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "interrogatories-and-responses",
+        "inspection-email-chain",
+        "shipment-release-form",
+        "exhibit-21-inspection-report"
+      ],
+      "summary": "Nora Alvarez says they knew of the hold on 2025-06-12, looked at the first page of Exhibit 21, and told dock staff not to release the truck without higher approval."
+    },
+    {
+      "doc_id": "deposition-simon-wu",
+      "filename": "deposition-simon-wu.md",
+      "title": "Deposition Transcript of Simon Wu",
+      "doc_type": "deposition_transcript_excerpt",
+      "source_path": "sample-docs/harbor-v-ironcrest/deposition-simon-wu.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-11-10",
+      "participants": [
+        "Simon Wu",
+        "Nora Alvarez",
+        "Patrick Doyle",
+        "Elise Grant",
+        "Victor Han"
+      ],
+      "tags": [
+        "deposition",
+        "quality",
+        "exhibit-21",
+        "timeline",
+        "customer-pressure"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Simon Wu Deposition",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "harbor-v-ironcrest",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "deposition-nora-alvarez",
+        "inspection-email-chain",
+        "nonconformance-report",
+        "internal-meeting-notes"
+      ],
+      "summary": "Simon Wu confirms a verbal hold on 2025-06-12 but says the formal Exhibit 21 PDF was forwarded after midnight and that they never gave final release authority."
+    },
+    {
+      "doc_id": "deposition-janelle-brooks",
+      "filename": "deposition-janelle-brooks.md",
+      "title": "Deposition Transcript of Janelle Brooks",
+      "doc_type": "deposition_transcript_excerpt",
+      "source_path": "sample-docs/harbor-v-ironcrest/deposition-janelle-brooks.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-11-18",
+      "participants": [
+        "Janelle Brooks",
+        "Nora Alvarez",
+        "Patrick Doyle",
+        "Simon Wu"
+      ],
+      "tags": [
+        "deposition",
+        "warehouse",
+        "shipment-release",
+        "release-form",
+        "dock-operations"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Janelle Brooks Deposition",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "harbor-v-ironcrest",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "shipment-release-form",
+        "bill-of-lading",
+        "inspection-email-chain",
+        "deposition-nora-alvarez"
+      ],
+      "summary": "Janelle Brooks describes an unclear dock decision chain, remembers seeing a shipment release screen bearing Patrick Doyle's name, and says no one gave a clean documented release."
+    },
+    {
+      "doc_id": "exhibit-21-inspection-report",
+      "filename": "exhibit-21-inspection-report.md",
+      "title": "Exhibit 21 Inspection Report",
+      "doc_type": "inspection_report",
+      "source_path": "sample-docs/harbor-v-ironcrest/exhibit-21-inspection-report.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-06-12",
+      "participants": [
+        "Elise Grant",
+        "Simon Wu",
+        "Nora Alvarez"
+      ],
+      "tags": [
+        "inspection",
+        "exhibit-21",
+        "fail-hold",
+        "quality",
+        "findings"
+      ],
+      "exhibit_number": 21,
+      "citation_label": "Exhibit 21 Inspection Report",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "harbor-v-ironcrest",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "nonconformance-report",
+        "inspection-email-chain",
+        "deposition-nora-alvarez",
+        "complaint"
+      ],
+      "summary": "Ironcrest's report states Lot HF-144 failed inspection, should be held, and should not ship pending quality and operations review."
+    },
+    {
+      "doc_id": "nonconformance-report",
+      "filename": "nonconformance-report.md",
+      "title": "Nonconformance Report NCR-25-0616",
+      "doc_type": "quality_nonconformance_report",
+      "source_path": "sample-docs/harbor-v-ironcrest/nonconformance-report.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-06-13",
+      "participants": [
+        "Simon Wu",
+        "Monica Reed",
+        "Nora Alvarez",
+        "Janelle Brooks"
+      ],
+      "tags": [
+        "quality",
+        "ncr",
+        "containment",
+        "hold",
+        "open-issues"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Nonconformance Report",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "harbor-v-ironcrest",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "exhibit-21-inspection-report",
+        "corrective-action-plan",
+        "shipment-release-form",
+        "internal-meeting-notes"
+      ],
+      "summary": "The NCR records the failed lot, notes that Truck 5932 left despite a hold, and lists unresolved questions about the release path."
+    },
+    {
+      "doc_id": "corrective-action-plan",
+      "filename": "corrective-action-plan.md",
+      "title": "Corrective Action Plan",
+      "doc_type": "corrective_action_plan",
+      "source_path": "sample-docs/harbor-v-ironcrest/corrective-action-plan.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-06-16",
+      "participants": [
+        "Monica Reed",
+        "Simon Wu",
+        "Patrick Doyle",
+        "Janelle Brooks"
+      ],
+      "tags": [
+        "capa",
+        "process-controls",
+        "audit-log",
+        "release-form"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Corrective Action Plan",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "harbor-v-ironcrest",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "nonconformance-report",
+        "root-cause-memo",
+        "shipment-release-form"
+      ],
+      "summary": "The CAPA proposes system and training fixes and notes that the audit trail suggests release-form edits after truck departure."
+    },
+    {
+      "doc_id": "shipment-release-form",
+      "filename": "shipment-release-form.md",
+      "title": "Shipment Release Form SRF-5932",
+      "doc_type": "shipment_release_form",
+      "source_path": "sample-docs/harbor-v-ironcrest/shipment-release-form.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-06-13",
+      "participants": [
+        "Janelle Brooks",
+        "Patrick Doyle",
+        "Nora Alvarez"
+      ],
+      "tags": [
+        "operations",
+        "release-form",
+        "truck-5932",
+        "approval"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Shipment Release Form",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "harbor-v-ironcrest",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "bill-of-lading",
+        "deposition-janelle-brooks",
+        "corrective-action-plan",
+        "root-cause-memo"
+      ],
+      "summary": "The release form shows a verbal operations release tied to Patrick Doyle, but its timing and audit history are disputed."
+    },
+    {
+      "doc_id": "bill-of-lading",
+      "filename": "bill-of-lading.md",
+      "title": "Bill of Lading for Truck 5932",
+      "doc_type": "bill_of_lading",
+      "source_path": "sample-docs/harbor-v-ironcrest/bill-of-lading.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-06-13",
+      "participants": [
+        "Janelle Brooks",
+        "Victor Han"
+      ],
+      "tags": [
+        "shipping",
+        "bill-of-lading",
+        "truck-5932",
+        "departure-time"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Bill of Lading",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "harbor-v-ironcrest",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "shipment-release-form",
+        "customer-rejection-letter",
+        "inspection-email-chain"
+      ],
+      "summary": "The bill of lading fixes the departure time of Truck 5932 and shows the shipment proceeded under expedite instructions."
+    },
+    {
+      "doc_id": "customer-rejection-letter",
+      "filename": "customer-rejection-letter.md",
+      "title": "Delta Marine Equipment Rejection Letter",
+      "doc_type": "customer_letter",
+      "source_path": "sample-docs/harbor-v-ironcrest/customer-rejection-letter.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-06-17",
+      "participants": [
+        "Victor Han",
+        "Monica Reed"
+      ],
+      "tags": [
+        "customer",
+        "rejection",
+        "damages",
+        "defects"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Delta Marine Equipment Rejection Letter",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "harbor-v-ironcrest",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "complaint",
+        "exhibit-21-inspection-report",
+        "bill-of-lading"
+      ],
+      "summary": "Delta Marine Equipment reports field failures tied to Lot HF-144 and rejects the shipment."
+    },
+    {
+      "doc_id": "inspection-email-chain",
+      "filename": "inspection-email-chain.md",
+      "title": "Inspection Email Chain",
+      "doc_type": "email_chain",
+      "source_path": "sample-docs/harbor-v-ironcrest/inspection-email-chain.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-06-13",
+      "participants": [
+        "Victor Han",
+        "Elise Grant",
+        "Simon Wu",
+        "Nora Alvarez",
+        "Patrick Doyle",
+        "Janelle Brooks"
+      ],
+      "tags": [
+        "email",
+        "shipment",
+        "hold-notice",
+        "timeline",
+        "customer-pressure"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Inspection Email Chain",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "harbor-v-ironcrest",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "exhibit-21-inspection-report",
+        "deposition-nora-alvarez",
+        "deposition-simon-wu",
+        "internal-meeting-notes"
+      ],
+      "summary": "The email chain captures customer pressure, verbal and written hold notices, and a disputed early-morning decision path for Truck 5932."
+    },
+    {
+      "doc_id": "internal-meeting-notes",
+      "filename": "internal-meeting-notes.md",
+      "title": "Internal Meeting Notes",
+      "doc_type": "internal_meeting_notes",
+      "source_path": "sample-docs/harbor-v-ironcrest/internal-meeting-notes.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-06-16",
+      "participants": [
+        "Simon Wu",
+        "Nora Alvarez",
+        "Patrick Doyle",
+        "Janelle Brooks",
+        "Monica Reed",
+        "Victor Han"
+      ],
+      "tags": [
+        "internal-notes",
+        "root-cause",
+        "open-issues",
+        "shipment-release"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Internal Meeting Notes",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "harbor-v-ironcrest",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "inspection-email-chain",
+        "deposition-janelle-brooks",
+        "nonconformance-report",
+        "root-cause-memo"
+      ],
+      "summary": "Internal follow-up notes capture conflicting witness recollections and leave the final release decision unresolved."
+    },
+    {
+      "doc_id": "root-cause-memo",
+      "filename": "root-cause-memo.md",
+      "title": "Root Cause Memo",
+      "doc_type": "internal_root_cause_memo",
+      "source_path": "sample-docs/harbor-v-ironcrest/root-cause-memo.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-06-17",
+      "participants": [
+        "Monica Reed",
+        "Simon Wu",
+        "Patrick Doyle",
+        "Nora Alvarez",
+        "Janelle Brooks"
+      ],
+      "tags": [
+        "root-cause",
+        "analysis",
+        "timeline",
+        "approval-gap",
+        "deposition-topics"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Root Cause Memo",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "harbor-v-ironcrest",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "internal-meeting-notes",
+        "corrective-action-plan",
+        "shipment-release-form",
+        "inspection-email-chain"
+      ],
+      "summary": "The memo synthesizes the evidence, flags contradictions, and identifies unresolved approval and system-audit questions for deposition prep."
+    }
+  ]
+}

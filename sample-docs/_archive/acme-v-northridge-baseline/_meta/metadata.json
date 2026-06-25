@@ -1,0 +1,241 @@
+{
+  "matter_id": "acme-v-northridge",
+  "matter_name": "Acme Manufacturing v. North Ridge Inspections",
+  "documents": [
+    {
+      "doc_id": "complaint",
+      "filename": "complaint.md",
+      "title": "Complaint",
+      "doc_type": "complaint",
+      "source_path": "sample-docs/_archive/acme-v-northridge-baseline/complaint.md",
+      "source_kind": "local_sample",
+      "created_date": "2025-04-02",
+      "participants": [
+        "Daniel Price",
+        "Emma Carver",
+        "Marcus Lee",
+        "Olivia Grant",
+        "Noah Bennett",
+        "Sofia Patel"
+      ],
+      "tags": [
+        "pleading",
+        "timeline",
+        "shipment",
+        "exhibit-12"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Complaint",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "acme-v-northridge",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "exhibit-12-inspection-report",
+        "inspection-email-chain",
+        "deposition-transcript-excerpt"
+      ],
+      "summary": "Acme alleges North Ridge failed to timely communicate a failed inspection result before shipment of Lot AX-447."
+    },
+    {
+      "doc_id": "discovery-responses",
+      "filename": "discovery-responses.md",
+      "title": "Plaintiff Acme Manufacturing's Supplemental Discovery Responses",
+      "doc_type": "written_discovery_responses",
+      "source_path": "sample-docs/_archive/acme-v-northridge-baseline/discovery-responses.md",
+      "source_kind": "local_sample",
+      "created_date": "2025-09-15",
+      "participants": [
+        "Daniel Price",
+        "Emma Carver",
+        "Marcus Lee",
+        "Olivia Grant",
+        "Noah Bennett"
+      ],
+      "tags": [
+        "discovery",
+        "interrogatories",
+        "timeline",
+        "position-statement"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Supplemental Discovery Responses",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "acme-v-northridge",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "deposition-transcript-excerpt",
+        "inspection-email-chain",
+        "exhibit-12-inspection-report"
+      ],
+      "summary": "Acme states management did not receive definitive fail notice until after Truck 8841 departed and denies pre-shipment review of Exhibit 12."
+    },
+    {
+      "doc_id": "deposition-transcript-excerpt",
+      "filename": "deposition-transcript-excerpt.md",
+      "title": "Deposition Transcript Excerpt of Daniel Price",
+      "doc_type": "deposition_transcript_excerpt",
+      "source_path": "sample-docs/_archive/acme-v-northridge-baseline/deposition-transcript-excerpt.md",
+      "source_kind": "local_sample",
+      "created_date": "2025-11-03",
+      "participants": [
+        "Daniel Price",
+        "Emma Carver",
+        "Marcus Lee",
+        "Olivia Grant",
+        "Sofia Patel"
+      ],
+      "tags": [
+        "deposition",
+        "witness-testimony",
+        "exhibit-12",
+        "shipment-release"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Daniel Price Deposition",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "acme-v-northridge",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "discovery-responses",
+        "inspection-email-chain",
+        "exhibit-12-inspection-report"
+      ],
+      "summary": "Daniel Price testifies that he learned of the failed inspection on March 7 and glanced at Exhibit 12 before the shipment departed."
+    },
+    {
+      "doc_id": "exhibit-12-inspection-report",
+      "filename": "exhibit-12-inspection-report.md",
+      "title": "Exhibit 12 Inspection Report",
+      "doc_type": "inspection_report",
+      "source_path": "sample-docs/_archive/acme-v-northridge-baseline/exhibit-12-inspection-report.md",
+      "source_kind": "local_sample",
+      "created_date": "2025-03-07",
+      "participants": [
+        "Sofia Patel",
+        "Emma Carver",
+        "Daniel Price"
+      ],
+      "tags": [
+        "inspection",
+        "exhibit-12",
+        "fail-hold",
+        "quality"
+      ],
+      "exhibit_number": 12,
+      "citation_label": "Exhibit 12 Inspection Report",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "acme-v-northridge",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "inspection-email-chain",
+        "deposition-transcript-excerpt",
+        "complaint"
+      ],
+      "summary": "North Ridge's report states that Lot AX-447 failed inspection and should be held from shipment."
+    },
+    {
+      "doc_id": "inspection-email-chain",
+      "filename": "inspection-email-chain.md",
+      "title": "Inspection Email Chain",
+      "doc_type": "email_chain",
+      "source_path": "sample-docs/_archive/acme-v-northridge-baseline/inspection-email-chain.md",
+      "source_kind": "local_sample",
+      "created_date": "2025-03-08",
+      "participants": [
+        "Noah Bennett",
+        "Sofia Patel",
+        "Emma Carver",
+        "Daniel Price",
+        "Marcus Lee",
+        "Olivia Grant"
+      ],
+      "tags": [
+        "email",
+        "shipment",
+        "hold-notice",
+        "timeline"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Inspection Email Chain",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "acme-v-northridge",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "exhibit-12-inspection-report",
+        "deposition-transcript-excerpt",
+        "internal-meeting-notes"
+      ],
+      "summary": "The email chain shows customer pressure, a March 7 hold instruction, and continued uncertainty just before Truck 8841 departed."
+    },
+    {
+      "doc_id": "internal-meeting-notes",
+      "filename": "internal-meeting-notes.md",
+      "title": "Internal Meeting Notes",
+      "doc_type": "internal_meeting_notes",
+      "source_path": "sample-docs/_archive/acme-v-northridge-baseline/internal-meeting-notes.md",
+      "source_kind": "local_sample",
+      "created_date": "2025-03-10",
+      "participants": [
+        "Emma Carver",
+        "Daniel Price",
+        "Marcus Lee",
+        "Olivia Grant",
+        "Rachel Kim",
+        "Noah Bennett"
+      ],
+      "tags": [
+        "internal-notes",
+        "root-cause",
+        "open-issues",
+        "shipment-release"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Internal Meeting Notes",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "acme-v-northridge",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "inspection-email-chain",
+        "deposition-transcript-excerpt",
+        "exhibit-12-inspection-report"
+      ],
+      "summary": "Internal follow-up notes confirm the hold issue and leave the final release decision unresolved."
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "matter_id": "redcliff-v-sterling",
+  "matter_name": "Redcliff Motion Works v. Sterling Plant Assurance",
+  "documents": [
+    {
+      "doc_id": "complaint",
+      "filename": "complaint.md",
+      "title": "Complaint",
+      "doc_type": "complaint",
+      "source_path": "sample-docs/redcliff-v-sterling/complaint.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-04-02",
+      "participants": [
+        "Owen Hartley",
+        "Meera Nair",
+        "Blake Sutton",
+        "Cara Fields",
+        "Jonah West",
+        "Isabel Torres",
+        "Felicity Dean"
+      ],
+      "tags": [
+        "pleading",
+        "timeline",
+        "shipment",
+        "exhibit-9",
+        "customer-rejection"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Complaint",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "redcliff-v-sterling",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "exhibit-9-inspection-report",
+        "inspection-email-chain",
+        "deposition-owen-hartley",
+        "customer-rejection-letter"
+      ],
+      "summary": "Redcliff alleges Sterling's inspection and communication failures allowed Lot RM-511 to ship despite a hold recommendation."
+    },
+    {
+      "doc_id": "answer-and-affirmative-defenses",
+      "filename": "answer-and-affirmative-defenses.md",
+      "title": "Answer and Affirmative Defenses",
+      "doc_type": "answer_pleading",
+      "source_path": "sample-docs/redcliff-v-sterling/answer-and-affirmative-defenses.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-05-01",
+      "participants": [
+        "Meera Nair",
+        "Blake Sutton",
+        "Isabel Torres",
+        "Owen Hartley"
+      ],
+      "tags": [
+        "pleading",
+        "defenses",
+        "knowledge",
+        "causation"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Answer and Affirmative Defenses",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "redcliff-v-sterling",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "complaint",
+        "exhibit-9-inspection-report",
+        "inspection-email-chain",
+        "shipment-release-form"
+      ],
+      "summary": "Sterling denies liability and contends Redcliff knew of the hold before shipment but still prioritized customer delivery."
+    },
+    {
+      "doc_id": "interrogatories-and-responses",
+      "filename": "interrogatories-and-responses.md",
+      "title": "Supplemental Interrogatories and Responses",
+      "doc_type": "written_discovery_responses",
+      "source_path": "sample-docs/redcliff-v-sterling/interrogatories-and-responses.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-09-15",
+      "participants": [
+        "Owen Hartley",
+        "Meera Nair",
+        "Blake Sutton",
+        "Cara Fields",
+        "Jonah West"
+      ],
+      "tags": [
+        "discovery",
+        "interrogatories",
+        "timeline",
+        "exhibit-9",
+        "contradiction"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Supplemental Interrogatory Responses",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "redcliff-v-sterling",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "deposition-owen-hartley",
+        "deposition-meera-nair",
+        "inspection-email-chain",
+        "exhibit-9-inspection-report"
+      ],
+      "summary": "Redcliff states no management witness other than Meera Nair reviewed Exhibit 9 before departure and says definitive fail notice did not reach operations until after the truck rolled."
+    },
+    {
+      "doc_id": "requests-for-production-and-responses",
+      "filename": "requests-for-production-and-responses.md",
+      "title": "Requests for Production and Responses",
+      "doc_type": "written_discovery_responses",
+      "source_path": "sample-docs/redcliff-v-sterling/requests-for-production-and-responses.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-09-20",
+      "participants": [
+        "Meera Nair",
+        "Cara Fields",
+        "Felicity Dean",
+        "Jonah West"
+      ],
+      "tags": [
+        "discovery",
+        "document-production",
+        "release-form",
+        "emails",
+        "root-cause"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Requests for Production and Responses",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "redcliff-v-sterling",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "shipment-release-form",
+        "bill-of-lading",
+        "root-cause-memo",
+        "inspection-email-chain"
+      ],
+      "summary": "The production responses identify the main operational documents and acknowledge gaps in preserved phone and system audit evidence."
+    },
+    {
+      "doc_id": "deposition-owen-hartley",
+      "filename": "deposition-owen-hartley.md",
+      "title": "Deposition Transcript of Owen Hartley",
+      "doc_type": "deposition_transcript_excerpt",
+      "source_path": "sample-docs/redcliff-v-sterling/deposition-owen-hartley.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-11-03",
+      "participants": [
+        "Owen Hartley",
+        "Meera Nair",
+        "Blake Sutton",
+        "Cara Fields",
+        "Isabel Torres"
+      ],
+      "tags": [
+        "deposition",
+        "witness-testimony",
+        "exhibit-9",
+        "hold-order",
+        "shipment-release"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Owen Hartley Deposition",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "redcliff-v-sterling",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "interrogatories-and-responses",
+        "inspection-email-chain",
+        "shipment-release-form",
+        "exhibit-9-inspection-report"
+      ],
+      "summary": "Owen Hartley says they knew of the hold on 2025-07-10, looked at the first page of Exhibit 9, and told dock staff not to release the truck without higher approval."
+    },
+    {
+      "doc_id": "deposition-meera-nair",
+      "filename": "deposition-meera-nair.md",
+      "title": "Deposition Transcript of Meera Nair",
+      "doc_type": "deposition_transcript_excerpt",
+      "source_path": "sample-docs/redcliff-v-sterling/deposition-meera-nair.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-11-10",
+      "participants": [
+        "Meera Nair",
+        "Owen Hartley",
+        "Blake Sutton",
+        "Isabel Torres",
+        "Jonah West"
+      ],
+      "tags": [
+        "deposition",
+        "quality",
+        "exhibit-9",
+        "timeline",
+        "customer-pressure"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Meera Nair Deposition",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "redcliff-v-sterling",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "deposition-owen-hartley",
+        "inspection-email-chain",
+        "nonconformance-report",
+        "internal-meeting-notes"
+      ],
+      "summary": "Meera Nair confirms a verbal hold on 2025-07-10 but says the formal Exhibit 9 PDF was forwarded after midnight and that they never gave final release authority."
+    },
+    {
+      "doc_id": "deposition-cara-fields",
+      "filename": "deposition-cara-fields.md",
+      "title": "Deposition Transcript of Cara Fields",
+      "doc_type": "deposition_transcript_excerpt",
+      "source_path": "sample-docs/redcliff-v-sterling/deposition-cara-fields.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-11-18",
+      "participants": [
+        "Cara Fields",
+        "Owen Hartley",
+        "Blake Sutton",
+        "Meera Nair"
+      ],
+      "tags": [
+        "deposition",
+        "warehouse",
+        "shipment-release",
+        "release-form",
+        "dock-operations"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Cara Fields Deposition",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "redcliff-v-sterling",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "shipment-release-form",
+        "bill-of-lading",
+        "inspection-email-chain",
+        "deposition-owen-hartley"
+      ],
+      "summary": "Cara Fields describes an unclear dock decision chain, remembers seeing an internal release page showing Blake Sutton in the approval field, and says no one gave a clean documented release."
+    },
+    {
+      "doc_id": "exhibit-9-inspection-report",
+      "filename": "exhibit-9-inspection-report.md",
+      "title": "Exhibit 9 Inspection Report",
+      "doc_type": "inspection_report",
+      "source_path": "sample-docs/redcliff-v-sterling/exhibit-9-inspection-report.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-07-10",
+      "participants": [
+        "Isabel Torres",
+        "Meera Nair",
+        "Owen Hartley"
+      ],
+      "tags": [
+        "inspection",
+        "exhibit-9",
+        "fail-hold",
+        "quality",
+        "findings"
+      ],
+      "exhibit_number": 9,
+      "citation_label": "Exhibit 9 Inspection Report",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "redcliff-v-sterling",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "nonconformance-report",
+        "inspection-email-chain",
+        "deposition-owen-hartley",
+        "complaint"
+      ],
+      "summary": "Sterling's report states Lot RM-511 failed inspection, should be held, and should not ship pending quality and operations review."
+    },
+    {
+      "doc_id": "nonconformance-report",
+      "filename": "nonconformance-report.md",
+      "title": "Nonconformance Report NCR-25-0714",
+      "doc_type": "quality_nonconformance_report",
+      "source_path": "sample-docs/redcliff-v-sterling/nonconformance-report.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-07-11",
+      "participants": [
+        "Meera Nair",
+        "Felicity Dean",
+        "Owen Hartley",
+        "Cara Fields"
+      ],
+      "tags": [
+        "quality",
+        "ncr",
+        "containment",
+        "hold",
+        "open-issues"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Nonconformance Report",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "redcliff-v-sterling",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "exhibit-9-inspection-report",
+        "corrective-action-plan",
+        "shipment-release-form",
+        "internal-meeting-notes"
+      ],
+      "summary": "The NCR records the failed lot, notes that Truck 4807 left despite a hold, and lists unresolved questions about the release path."
+    },
+    {
+      "doc_id": "corrective-action-plan",
+      "filename": "corrective-action-plan.md",
+      "title": "Corrective Action Plan",
+      "doc_type": "corrective_action_plan",
+      "source_path": "sample-docs/redcliff-v-sterling/corrective-action-plan.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-07-14",
+      "participants": [
+        "Felicity Dean",
+        "Meera Nair",
+        "Blake Sutton",
+        "Cara Fields"
+      ],
+      "tags": [
+        "capa",
+        "process-controls",
+        "audit-log",
+        "release-form"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Corrective Action Plan",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "redcliff-v-sterling",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "nonconformance-report",
+        "root-cause-memo",
+        "shipment-release-form"
+      ],
+      "summary": "The CAPA proposes system and training fixes and notes that the audit trail suggests release-form edits after truck departure."
+    },
+    {
+      "doc_id": "shipment-release-form",
+      "filename": "shipment-release-form.md",
+      "title": "Shipment Release Form SRF-4807",
+      "doc_type": "shipment_release_form",
+      "source_path": "sample-docs/redcliff-v-sterling/shipment-release-form.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-07-11",
+      "participants": [
+        "Cara Fields",
+        "Blake Sutton",
+        "Owen Hartley"
+      ],
+      "tags": [
+        "operations",
+        "release-form",
+        "truck-4807",
+        "approval"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Shipment Release Form",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "redcliff-v-sterling",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "bill-of-lading",
+        "deposition-cara-fields",
+        "corrective-action-plan",
+        "root-cause-memo"
+      ],
+      "summary": "The release form shows a verbal operations release tied to Blake Sutton, but its timing and audit history are disputed."
+    },
+    {
+      "doc_id": "bill-of-lading",
+      "filename": "bill-of-lading.md",
+      "title": "Bill of Lading for Truck 4807",
+      "doc_type": "bill_of_lading",
+      "source_path": "sample-docs/redcliff-v-sterling/bill-of-lading.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-07-11",
+      "participants": [
+        "Cara Fields",
+        "Jonah West"
+      ],
+      "tags": [
+        "shipping",
+        "bill-of-lading",
+        "truck-4807",
+        "departure-time"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Bill of Lading",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "redcliff-v-sterling",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "shipment-release-form",
+        "customer-rejection-letter",
+        "inspection-email-chain"
+      ],
+      "summary": "The bill of lading fixes the departure time of Truck 4807 and shows the shipment proceeded under expedite instructions."
+    },
+    {
+      "doc_id": "customer-rejection-letter",
+      "filename": "customer-rejection-letter.md",
+      "title": "Alpine Robotics Rejection Letter",
+      "doc_type": "customer_letter",
+      "source_path": "sample-docs/redcliff-v-sterling/customer-rejection-letter.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-07-15",
+      "participants": [
+        "Jonah West",
+        "Felicity Dean"
+      ],
+      "tags": [
+        "customer",
+        "rejection",
+        "damages",
+        "defects"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Alpine Robotics Rejection Letter",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "redcliff-v-sterling",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "complaint",
+        "exhibit-9-inspection-report",
+        "bill-of-lading"
+      ],
+      "summary": "Alpine Robotics reports field failures tied to Lot RM-511 and rejects the shipment."
+    },
+    {
+      "doc_id": "inspection-email-chain",
+      "filename": "inspection-email-chain.md",
+      "title": "Inspection Email Chain",
+      "doc_type": "email_chain",
+      "source_path": "sample-docs/redcliff-v-sterling/inspection-email-chain.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-07-11",
+      "participants": [
+        "Jonah West",
+        "Isabel Torres",
+        "Meera Nair",
+        "Owen Hartley",
+        "Blake Sutton",
+        "Cara Fields"
+      ],
+      "tags": [
+        "email",
+        "shipment",
+        "hold-notice",
+        "timeline",
+        "customer-pressure"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Inspection Email Chain",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "redcliff-v-sterling",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "exhibit-9-inspection-report",
+        "deposition-owen-hartley",
+        "deposition-meera-nair",
+        "internal-meeting-notes"
+      ],
+      "summary": "The email chain captures customer pressure, verbal and written hold notices, and a disputed early-morning decision path for Truck 4807."
+    },
+    {
+      "doc_id": "internal-meeting-notes",
+      "filename": "internal-meeting-notes.md",
+      "title": "Internal Meeting Notes",
+      "doc_type": "internal_meeting_notes",
+      "source_path": "sample-docs/redcliff-v-sterling/internal-meeting-notes.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-07-14",
+      "participants": [
+        "Meera Nair",
+        "Owen Hartley",
+        "Blake Sutton",
+        "Cara Fields",
+        "Felicity Dean",
+        "Jonah West"
+      ],
+      "tags": [
+        "internal-notes",
+        "root-cause",
+        "open-issues",
+        "shipment-release"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Internal Meeting Notes",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "redcliff-v-sterling",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "inspection-email-chain",
+        "deposition-cara-fields",
+        "nonconformance-report",
+        "root-cause-memo"
+      ],
+      "summary": "Internal follow-up notes capture conflicting witness recollections and leave the final release decision unresolved."
+    },
+    {
+      "doc_id": "root-cause-memo",
+      "filename": "root-cause-memo.md",
+      "title": "Root Cause Memo",
+      "doc_type": "internal_root_cause_memo",
+      "source_path": "sample-docs/redcliff-v-sterling/root-cause-memo.md",
+      "source_kind": "local_demo_generated",
+      "created_date": "2025-07-15",
+      "participants": [
+        "Felicity Dean",
+        "Meera Nair",
+        "Blake Sutton",
+        "Owen Hartley",
+        "Cara Fields"
+      ],
+      "tags": [
+        "root-cause",
+        "analysis",
+        "timeline",
+        "approval-gap",
+        "deposition-topics"
+      ],
+      "exhibit_number": null,
+      "citation_label": "Root Cause Memo",
+      "page_markers": true,
+      "access_scope": {
+        "matter_id": "redcliff-v-sterling",
+        "allowed_roles": [
+          "pilot_user",
+          "pilot_reviewer",
+          "pilot_admin"
+        ]
+      },
+      "related_docs": [
+        "internal-meeting-notes",
+        "corrective-action-plan",
+        "shipment-release-form",
+        "inspection-email-chain"
+      ],
+      "summary": "The memo synthesizes the evidence, flags contradictions, and identifies unresolved approval and system-audit questions for deposition prep."
+    }
+  ]
+}

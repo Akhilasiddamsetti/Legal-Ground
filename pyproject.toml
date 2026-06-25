@@ -1,0 +1,63 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "learning-curve"
+version = "0.1.0"
+description = "Secure RAG assistant for legal deposition preparation"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.26",
+    "sentence-transformers>=2.7",
+    "anthropic>=0.40",
+    "boto3>=1.34",
+    "fastapi>=0.115",
+    "uvicorn>=0.30",
+    "jinja2>=3.1",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8,<9",
+    "ruff>=0.6",
+    "mypy>=1.11",
+]
+
+[project.scripts]
+learning-curve-web = "learning_curve.web.app:main"
+learning-curve-ask = "learning_curve.cli.ask:main"
+learning-curve-search = "learning_curve.cli.search:main"
+learning-curve-eval = "learning_curve.eval.run_eval:main"
+lc-build-chunks = "learning_curve.tools.build_chunks:main"
+lc-build-embeddings = "learning_curve.tools.build_embeddings:main"
+lc-generate-cases = "learning_curve.tools.generate_demo_cases:main"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+"learning_curve.web" = ["templates/*", "static/*"]
+"learning_curve.eval" = ["*.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 110
+target-version = "py310"
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+ignore = ["E501"]  # line length handled by formatter
+
+[tool.mypy]
+python_version = "3.10"
+ignore_missing_imports = true
+namespace_packages = true
+explicit_package_bases = true

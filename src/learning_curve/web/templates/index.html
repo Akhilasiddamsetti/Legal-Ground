@@ -1,0 +1,274 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ app_title }}</title>
+  <link rel="icon" type="image/svg+xml" href="{{ url_for('static', path='favicon.svg') }}">
+  <link rel="alternate icon" href="/favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700;800&family=Source+Serif+4:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', path='app.css') }}">
+</head>
+<body data-theme="indigo">
+
+<div id="lc-root" class="lc-root">
+
+  <!-- ============ SIDEBAR ============ -->
+  <aside class="sidebar">
+    <div class="side-brand">
+      <div class="brand-mark">LC</div>
+      <div class="brand-text">
+        <span class="brand-eyebrow">Learning Curve</span>
+        <span class="brand-title">Case Workspace</span>
+      </div>
+    </div>
+
+    <div class="side-actions">
+      <button type="button" class="new-case" title="New case (coming soon)" disabled>+</button>
+      <input id="case-search" class="case-search" type="search" placeholder="Search cases…" autocomplete="off">
+    </div>
+
+    <div hidden>
+      <label for="matter-select">Matter</label>
+      <select id="matter-select" name="matter">
+        {% for case in cases %}
+        <option value="{{ case.id }}"{{ ' selected' if loop.first else '' }}>{{ case.name }}</option>
+        {% endfor %}
+      </select>
+    </div>
+
+    <div class="case-list" id="case-list">
+      <div class="case-section">
+        <div class="case-section-label">Pinned</div>
+        <div class="case-section-empty">No pinned cases</div>
+      </div>
+
+      <div class="case-section">
+        <div class="case-section-label">Active · {{ cases | length }}</div>
+        {% for case in cases %}
+        <button type="button" class="case-card{{ ' active' if loop.first else '' }}"
+                data-matter="{{ case.id }}" data-name="{{ case.name }}"
+                data-doc-label="{{ case.doc_label }}" data-status="{{ case.status }}">
+          <span class="case-card-name">{{ case.name }}</span>
+          <span class="case-card-meta">
+            <span class="status-dot status-active"></span>{{ case.status }} · {{ case.doc_label }}
+          </span>
+        </button>
+        {% endfor %}
+      </div>
+
+      <div class="case-section">
+        <div class="case-section-label">Closed</div>
+        <div class="case-section-empty">No closed cases</div>
+      </div>
+    </div>
+
+    <div class="side-foot">
+      <div class="avatar">{{ user.initials }}</div>
+      <div class="side-foot-text">
+        <div class="side-foot-name">{{ user.name }}</div>
+        <div class="side-foot-org">{{ user.org }}</div>
+      </div>
+      <label class="role-switch" title="Access role">
+        <span class="role-switch-label">Role</span>
+        <select id="role-select" name="role">
+          {% for role in roles %}
+          <option value="{{ role }}"{{ ' selected' if role == user.role else '' }}>{{ role }}</option>
+          {% endfor %}
+        </select>
+      </label>
+    </div>
+  </aside>
+
+  <!-- ============ MAIN ============ -->
+  <main class="main">
+    <header class="case-head">
+      <div class="case-head-text">
+        <h1 id="case-name" class="case-name">{{ cases[0].name if cases else 'No case selected' }}</h1>
+        <div class="case-head-meta" id="case-meta">
+          <span class="status-dot status-active"></span><span id="case-status">{{ cases[0].status if cases else '' }}</span>
+          <span class="dot-sep">·</span><span id="case-doclabel">{{ cases[0].doc_label if cases else '' }}</span>
+        </div>
+      </div>
+      <div class="head-actions">
+        <button type="button" id="open-corpus" class="open-corpus">
+          Approved corpus <span class="chev">›</span>
+        </button>
+        <button type="button" id="settings-btn" class="settings-btn" title="Appearance" aria-label="Appearance settings">⚙</button>
+        <div id="settings-menu" class="settings-menu hidden">
+          <div class="settings-row">
+            <label for="set-palette">Palette</label>
+            <select id="set-palette">
+              <option value="indigo">Indigo</option>
+              <option value="navy">Navy</option>
+              <option value="graphite">Graphite</option>
+              <option value="oxblood">Oxblood</option>
+              <option value="teal">Teal</option>
+            </select>
+          </div>
+          <div class="settings-row">
+            <label for="set-answer">Answer style</label>
+            <select id="set-answer">
+              <option value="serif">Serif memo</option>
+              <option value="clean">Clean sans</option>
+            </select>
+          </div>
+          <div class="settings-row">
+            <label for="set-density">Sidebar</label>
+            <select id="set-density">
+              <option value="detailed">Detailed</option>
+              <option value="compact">Compact</option>
+            </select>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <div class="conversation" id="conversation">
+      <div class="thread" id="transcript">
+        <article class="empty-state" id="empty-state">
+          <div class="empty-eyebrow">New thread</div>
+          <h2 class="empty-title">Ask a question about <span id="empty-case">{{ cases[0].name if cases else 'this case' }}</span>.</h2>
+          <p class="empty-copy">Each question runs a fresh retrieval over this case's approved documents. Grounded answers cite their sources; unsupported questions return a deliberate abstention.</p>
+          <div class="suggest-row">
+            {% for s in suggestions %}
+            <button type="button" class="suggest chip" data-q="{{ s.full }}">{{ s.full }}</button>
+            {% endfor %}
+          </div>
+        </article>
+      </div>
+    </div>
+
+    <div class="composer-wrap">
+      <div id="error-banner" class="error-banner hidden" role="alert"></div>
+      <form id="ask-form" class="composer">
+        <div class="quick-ask">
+          <span class="quick-ask-label">Quick ask</span>
+          {% for s in suggestions %}
+          <button type="button" class="chip" data-q="{{ s.full }}">{{ s.short }}</button>
+          {% endfor %}
+        </div>
+        <div class="composer-input">
+          <textarea id="question-input" name="question" rows="1" placeholder="Ask about this case…"></textarea>
+          <button type="submit" id="submit-button">Ask</button>
+        </div>
+        <p class="composer-hint">Grounded answers only · scoped to <span id="hint-role">{{ user.role }}</span> access · answered independently of prior questions.</p>
+      </form>
+    </div>
+
+    <!-- evidence edge handle -->
+    <button type="button" id="evidence-handle" class="evidence-handle hidden">Evidence</button>
+
+    <!-- scrim + drawer -->
+    <div id="scrim" class="scrim"></div>
+    <aside id="drawer" class="drawer" aria-hidden="true">
+      <div class="drawer-head">
+        <div class="drawer-head-text">
+          <div class="drawer-eyebrow">Evidence trail</div>
+          <p class="drawer-question" id="drawer-question"></p>
+          <div class="drawer-meta" id="drawer-meta"></div>
+        </div>
+        <button type="button" id="drawer-close" class="drawer-close" aria-label="Close evidence">&times;</button>
+      </div>
+      <div class="drawer-body">
+        <!-- default view: retrieved passages + approved corpus -->
+        <div id="drawer-main">
+          <div class="drawer-section-label">Retrieved passages</div>
+          <div id="drawer-passages" class="drawer-passages">
+            <div class="drawer-empty" id="drawer-empty">
+              <div class="drawer-empty-title">No retrieved passages yet</div>
+              <p>Ask a question, or open a cited answer to inspect the passages that grounded it.</p>
+            </div>
+          </div>
+
+          <div class="drawer-divider"></div>
+          <div class="drawer-section-label">Approved corpus · <span id="corpus-count">{{ documents | length }}</span></div>
+          <div class="corpus-list" id="corpus-list">
+            {% for doc in documents %}
+            <button type="button" class="corpus-item" data-matter="{{ doc.matter_id }}" data-doc-id="{{ doc.doc_id }}">
+              <div class="corpus-item-text">
+                <div class="corpus-item-title">{{ doc.title }}</div>
+                <div class="corpus-item-date">{{ doc.date }}</div>
+              </div>
+              <span class="corpus-item-type">{{ doc.type }}</span>
+            </button>
+            {% endfor %}
+          </div>
+        </div>
+
+        <!-- source view: shown when a document is opened -->
+        <div id="source-view" class="source-view hidden">
+          <button type="button" id="source-back" class="source-back">‹ Back to evidence</button>
+          <div class="source-title" id="source-title"></div>
+          <div class="source-meta" id="source-meta"></div>
+          <pre class="source-text" id="source-text"></pre>
+        </div>
+      </div>
+    </aside>
+  </main>
+</div>
+
+<!-- ============ TEMPLATES (cloned by app.js) ============ -->
+<template id="turn-template">
+  <article class="turn">
+    <div class="turn-q">
+      <span class="q-badge">Q</span>
+      <p class="q-text" data-question></p>
+    </div>
+    <div class="turn-status">
+      <span class="status-pill" data-status></span>
+      <span class="turn-time" data-time></span>
+    </div>
+    <div class="answer-body" data-answer></div>
+    <div class="assessment hidden" data-assessment>
+      <div class="assessment-label" data-assessment-label></div>
+      <div class="assessment-text" data-assessment-text></div>
+    </div>
+    <div class="sources hidden" data-sources-wrap>
+      <div class="sources-label">Sources</div>
+      <div class="sources-row" data-sources></div>
+    </div>
+    <div class="turn-foot">
+      <span class="runline" data-runline></span>
+      <button type="button" class="evidence-btn" data-evidence-btn>View evidence <span class="chev">›</span></button>
+    </div>
+  </article>
+</template>
+
+<template id="pending-template">
+  <article class="turn pending">
+    <div class="turn-q">
+      <span class="q-badge">Q</span>
+      <p class="q-text" data-question></p>
+    </div>
+    <div class="pending-row">
+      <span class="pending-dot"></span>
+      <span class="pending-text">Retrieving from approved documents…</span>
+    </div>
+    <div class="shimmer" style="width:92%"></div>
+    <div class="shimmer" style="width:100%"></div>
+    <div class="shimmer" style="width:74%"></div>
+  </article>
+</template>
+
+<template id="evidence-card-template">
+  <div class="ev-card">
+    <div class="ev-linked" data-linked></div>
+    <div class="ev-inner">
+      <div class="ev-top">
+        <span class="ev-index" data-index></span>
+        <span class="ev-status" data-status></span>
+      </div>
+      <div class="ev-doc" data-doc></div>
+      <div class="ev-page" data-page></div>
+      <p class="ev-preview" data-preview></p>
+      <div class="ev-tags" data-tags></div>
+    </div>
+  </div>
+</template>
+
+<script src="{{ url_for('static', path='app.js') }}"></script>
+</body>
+</html>
